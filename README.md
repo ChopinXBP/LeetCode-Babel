@@ -1,10 +1,12 @@
 # LeetCode-Babel
 
-**
-#程序员笔试必备# LeetCode 从零单刷个人笔记整理（持续更新）
-github：[https://github.com/ChopinXBP/LeetCode-Babel](https://github.com/ChopinXBP/LeetCode-Babel)
-配套博客：[https://blog.csdn.net/qq_20304723/article/details/89401203](https://blog.csdn.net/qq_20304723/article/details/89401203)
-**
+
+**#程序员笔试必备# LeetCode 从零单刷个人笔记整理（持续更新）**
+
+**github：https://github.com/ChopinXBP/LeetCode-Babel**
+
+**配套博客:https://blog.csdn.net/qq_20304723/article/details/89401203**
+
 
 ---
 
