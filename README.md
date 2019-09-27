@@ -1,12 +1,12 @@
 # LeetCode-Babel
 
-
 **LeetCode 从零单刷个人笔记整理（持续更新）**
 
 **github：https://github.com/ChopinXBP/LeetCode-Babel**
 
 **配套博客:https://blog.csdn.net/qq_20304723/article/details/89401203**
 
+喜欢就给颗星星再走吧~
 
 ---
 
@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-54 | 90 | 25 | 169
+54 | 91 | 25 | 170
 
 </center>
 
@@ -35,6 +35,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
 169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses]|2019.9.25|<font color=#D70000>Hard</font>|
 168|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[Next Permutation]|2019.9.24|<font color=#FFD700>Medium</font>|
 167|454|[四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|4Sum II|2019.9.23|<font color=#FFD700>Medium</font>|4
@@ -50,7 +51,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 157|347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|Top K Frequent Elements|2019.9.14|<font color=#FFD700>Medium</font>|4
 156|341|[扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|[Flatten Nested List Iterator]|2019.9.14|<font color=#FFD700>Medium</font>|
 155|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[Longest Increasing Path in a Matrix]|2019.9.12|<font color=#D70000>Hard</font>|
-154|334|[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)|[Increasing Triplet Subsequence]|2019.9.10|<font color=#FFD700>Medium</font>|
+154|334|[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)|[Increasing Triplet Subsequence](https://blog.csdn.net/qq_20304723/article/details/101622056)|2019.9.10|<font color=#FFD700>Medium</font>|6
 153|328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[Odd Even Linked List]|2019.9.9|<font color=#FFD700>Medium</font>|3
 152|326|[3的幂](https://leetcode-cn.com/problems/power-of-three/)|[Power of Three](https://blog.csdn.net/qq_20304723/article/details/101479485)|2019.9.9|<font color=#00D700>Easy</font>|6
 151|324|[摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/)|[Wiggle Sort II](https://blog.csdn.net/qq_20304723/article/details/101364020)|2019.8.21|<font color=#FFD700>Medium</font>|6
