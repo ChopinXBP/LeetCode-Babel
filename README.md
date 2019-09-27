@@ -1,7 +1,7 @@
 # LeetCode-Babel
 
 
-**#程序员笔试必备# LeetCode 从零单刷个人笔记整理（持续更新）**
+**LeetCode 从零单刷个人笔记整理（持续更新）**
 
 **github：https://github.com/ChopinXBP/LeetCode-Babel**
 
