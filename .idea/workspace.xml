@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/SqrtX.java" line="22" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="" />
+    <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +337,7 @@
       <workItem from="1569311641927" duration="15243000" />
       <workItem from="1569508945291" duration="141000" />
       <workItem from="1569562392923" duration="3989000" />
-      <workItem from="1569651182437" duration="7239000" />
+      <workItem from="1569651182437" duration="7514000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -362,7 +364,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="895168000" />
+    <option name="totallyTimeSpent" value="895443000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
