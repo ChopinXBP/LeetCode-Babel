@@ -35,6 +35,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List]|2019.9.29|<font color=#FFD700>Medium</font>|
 173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle]|2019.9.29|<font color=#D70000>Hard</font>|
 172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance]|2019.9.29|<font color=#D70000>Hard</font>|
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
