@@ -53,7 +53,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 158|350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[Intersection of Two Arrays II]|2019.9.14|<font color=#00D700>Easy</font>|
 157|347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|Top K Frequent Elements|2019.9.14|<font color=#FFD700>Medium</font>|4
 156|341|[扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|[Flatten Nested List Iterator]|2019.9.14|<font color=#FFD700>Medium</font>|
-155|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[Longest Increasing Path in a Matrix]|2019.9.12|<font color=#D70000>Hard</font>|
+155|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[Longest Increasing Path in a Matrix](https://blog.csdn.net/qq_20304723/article/details/101712857)|2019.9.12|<font color=#D70000>Hard</font>|10
 154|334|[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)|[Increasing Triplet Subsequence](https://blog.csdn.net/qq_20304723/article/details/101622056)|2019.9.10|<font color=#FFD700>Medium</font>|6
 153|328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[Odd Even Linked List]|2019.9.9|<font color=#FFD700>Medium</font>|3
 152|326|[3的幂](https://leetcode-cn.com/problems/power-of-three/)|[Power of Three](https://blog.csdn.net/qq_20304723/article/details/101479485)|2019.9.9|<font color=#00D700>Easy</font>|6
