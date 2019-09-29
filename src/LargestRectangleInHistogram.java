@@ -27,7 +27,7 @@ public class LargestRectangleInHistogram {
         return result;
     }
 
-    //方法二：辅助栈。利用辅助栈动态存储当前最大高度柱子对应下标
+    //方法二：单调递增栈。利用辅助栈动态存储当前最大高度柱子对应下标
     public int largestRectangleArea1(int[] heights){
         Stack<Integer> stack = new Stack<>();
         int maxArea = 0;
@@ -46,6 +46,25 @@ public class LargestRectangleInHistogram {
                 maxArea = curArea > maxArea ? curArea : maxArea;
                 --i;
             }
+        }
+        return maxArea;
+    }
+
+    //单调递增栈写法2
+    public int largestRectangleArea11(int[] heights){
+        Stack<Integer> stack = new Stack<>();
+        stack.push(-1);
+        int maxArea = 0;
+        for(int i = 0; i < heights.length; i++){
+            //弹出栈中所有不大于当前高度heights[i]的元素，计算矩形面积
+            while(stack.peek() != -1 && heights[stack.peek()] >= heights[i]){
+                maxArea = Math.max(maxArea, heights[stack.pop()] * (i - stack.peek() - 1));
+            }
+            stack.push(i);
+        }
+        //处理剩余栈中元素
+        while(stack.peek() != -1){
+            maxArea = Math.max(maxArea, heights[stack.pop()] * (heights.length - stack.peek() - 1));
         }
         return maxArea;
     }
