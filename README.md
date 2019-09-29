@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-54 | 92 | 25 | 171
+54 | 92 | 26 | 172
 
 </center>
 
@@ -35,6 +35,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance]|2019.9.29|<font color=#D70000>Hard</font>|
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
 170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
 169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses]|2019.9.25|<font color=#D70000>Hard</font>|
