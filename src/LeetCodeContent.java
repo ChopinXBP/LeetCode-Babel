@@ -166,6 +166,7 @@ LeetCode
 160.MaximalRectangle                                2019.9.29   java
 170.FlattenBinaryTreeToLinkedList                   2019.9.29   java
 171.MaximalSquare                                   2019.9.30   java
+172.InvertBinaryTree                                2019.9.30   java
 
 */
 
