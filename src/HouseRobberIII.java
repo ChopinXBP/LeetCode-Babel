@@ -28,9 +28,11 @@ public class HouseRobberIII {
     }
 
     //树形动态规划：自底向上
-    //参考LeetCode198打家劫舍I的一维dp思路：dp[i] = Math.max(dp[i - 2] + nums[i - 1], dp[i - 1])，每一个结点的dp值取决于同一枝干前两个结点的dp值
+    //参考LeetCode198打家劫舍I的一维dp思路：dp[i] = Math.max(dp[i-2]+nums[cur], dp[i-1])，每一个节点的dp值与三层二叉树的结点dp值相关。
     public TreeNode Solution(TreeNode root){
-        //为树状dp数组设定初值：在叶子结点和空结点下构建子树，使得每一个非叶结点的动态转移方程的运算子结构都是一棵三层满二叉树
+        //设定初值：在叶子结点和空结点下进行构建，使得每一个非叶结点作为根节点的子树都是一棵三层满二叉树，方便动态转移方程运算。
+        //对于左/右子树为空的非叶节点，我们在其左/右添加一棵两层值为0的满二叉树。
+        //对于叶子结点，我们给其添加值为0的左右子结点。
         if(root == null){
             TreeNode newNode = new TreeNode(0);
             return Solution(newNode);
@@ -42,13 +44,16 @@ public class HouseRobberIII {
         }
         root.left = Solution(root.left);
         root.right = Solution(root.right);
-        //将所有dp值保存在已经遍历过的结点中，在结点值均为非负的情况下，在相邻结点不能同取的要求下，三层满二叉树的最大取值只可能有四种情况。
-        //因此状态转移方程为dp[root] = Max(dp[l]+dp[r], root.val+dp[ll]+dp[lr]+dp[rr]+dp[rl], dp[l]+dp[rl]+dp[rr], dp[r]+dp[lr]+dp[rl])
+
+        //那么我们可以自底向上递归进行这个dp运算，令dp[i]代表以i结点为根节点的子树的最大偷窃金额值，计算结束后将dp值直接保存在i结点的val值当中返回。
+        //在每个结点的金额非负的情况下，且要保证取值结点不相邻，三层满二叉树的最大取值只可能有四种情况。
+        //状态转移方程为dp[root] = Max(dp[l]+dp[r], root.val+dp[ll]+dp[lr]+dp[rr]+dp[rl], dp[l]+dp[rl]+dp[rr], dp[r]+dp[lr]+dp[rl])
         int case1 = root.left.val + root.right.val;
         int case2 = root.val + root.left.left.val + root.left.right.val + root.right.left.val + root.right.right.val;
         int case3 = root.left.val + root.right.left.val + root.right.right.val;
         int case4 = root.right.val + root.left.left.val + root.left.right.val;
         root.val = Math.max(Math.max(case1, case2), Math.max(case3, case4));
+
         return root;
     }
 }
