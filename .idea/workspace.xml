@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/SqrtX.java" line="22" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HouseRobberIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+              <first_editor relative-caret-position="330">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -42,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HouseRobberIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="352">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -139,9 +134,9 @@
         <option value="$PROJECT_DIR$/src/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/RemoveInvalidParentheses.java" />
         <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStockWithCooldown.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/HouseRobberIII.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -368,7 +363,7 @@
       <workItem from="1569562392923" duration="3989000" />
       <workItem from="1569651182437" duration="7514000" />
       <workItem from="1569814661249" duration="4514000" />
-      <workItem from="1569917211929" duration="13958000" />
+      <workItem from="1569917211929" duration="14363000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -395,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="948953000" />
+    <option name="totallyTimeSpent" value="949358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,7 +405,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +422,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49520257" visible="true" weight="0.23076923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49520257" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50479746" side_tool="true" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
@@ -718,16 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -744,8 +729,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HouseRobberIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="352">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="330">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

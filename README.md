@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-55 | 95 | 28 | 178
+55 | 96 | 28 | 179
 
 </center>
 
@@ -35,6 +35,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+179|337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|[House Robber III]|2019.10.2|<font color=#FFD700>Medium</font>|
 178|309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Best Time to Buy and Sell Stock with Cooldown](https://blog.csdn.net/qq_20304723/article/details/96774911)|2019.10.1|<font color=#FFD700>Medium</font>|7
 177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses]]|2019.9.30|<font color=#D70000>Hard</font>|
 176|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|Invert Binary Tree|2019.9.30|<font color=#00D700>Easy</font>|3
@@ -54,7 +55,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 162|381|[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Insert Delete GetRandom O(1) - Duplicates allowed]|2019.9.18|<font color=#D70000>Hard</font>|
 161|380|[常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)|[Insert Delete GetRandom O(1)]|2019.9.18|<font color=#FFD700>Medium</font>|
 160|378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Kth Smallest Element in a Sorted Matrix]|2019.9.17|<font color=#FFD700>Medium</font>|
-159|371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[Sum of Two Integers]|2019.9.16|<font color=#00D700>Easy</font>|
+159|371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[Sum of Two Integers](https://blog.csdn.net/qq_20304723/article/details/101935093)|2019.9.16|<font color=#00D700>Easy</font>|6
 158|350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[Intersection of Two Arrays II](https://blog.csdn.net/qq_20304723/article/details/101857750)|2019.9.14|<font color=#00D700>Easy</font>|4
 157|347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|Top K Frequent Elements|2019.9.14|<font color=#FFD700>Medium</font>|4
 156|341|[扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|[Flatten Nested List Iterator](https://blog.csdn.net/qq_20304723/article/details/101758968)|2019.9.14|<font color=#FFD700>Medium</font>|6
