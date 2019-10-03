@@ -24,8 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-55 | 96 | 28 | 179
-
+55 | 97 | 28 | 180
 </center>
 
 ---
@@ -35,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+180|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[Counting Bits]|2019.10.3|<font color=#FFD700>Medium</font>|
 179|337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|[House Robber III]|2019.10.2|<font color=#FFD700>Medium</font>|
 178|309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Best Time to Buy and Sell Stock with Cooldown](https://blog.csdn.net/qq_20304723/article/details/96774911)|2019.10.1|<font color=#FFD700>Medium</font>|7
 177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses]]|2019.9.30|<font color=#D70000>Hard</font>|

@@ -23,8 +23,7 @@ public class HouseRobberIII {
     }
 
     public int rob(TreeNode root) {
-        root = Solution(root);
-        return root.val;
+        return Solution(root).val;
     }
 
     //树形动态规划：自底向上
