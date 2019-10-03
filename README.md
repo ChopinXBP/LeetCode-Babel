@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-55 | 99 | 28 | 182
+55 | 100 | 28 | 183
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+183|406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height]|2019.10.3|<font color=#FFD700>Medium</font>|
 182|399|[除法求值](https://leetcode-cn.com/problems/evaluate-division/)|Evaluate Division|2019.10.3|<font color=#FFD700>Medium</font>|5
 181|394|[字符串解码](https://leetcode-cn.com/problems/decode-string/)|[Decode String]|2019.10.3|<font color=#FFD700>Medium</font>|
 180|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[Counting Bits](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.3|<font color=#FFD700>Medium</font>|6
