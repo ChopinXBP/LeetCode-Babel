@@ -174,6 +174,7 @@ LeetCode
 177.DecodeString                                    2019.10.3   java
 178.EvaluateDivision                                2019.10.3   java
 179.QueueReconstructionByHeight                     2019.10.3   java
+180.PartitionEqualSubsetSum                         2019.10.4   java
 
 */
 
