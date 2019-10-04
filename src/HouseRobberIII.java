@@ -47,11 +47,9 @@ public class HouseRobberIII {
         //那么我们可以自底向上递归进行这个dp运算，令dp[i]代表以i结点为根节点的子树的最大偷窃金额值，计算结束后将dp值直接保存在i结点的val值当中返回。
         //在每个结点的金额非负的情况下，且要保证取值结点不相邻，三层满二叉树的最大取值只可能有四种情况。
         //状态转移方程为dp[root] = Max(dp[l]+dp[r], root.val+dp[ll]+dp[lr]+dp[rr]+dp[rl], dp[l]+dp[rl]+dp[rr], dp[r]+dp[lr]+dp[rl])
-        int case1 = root.left.val + root.right.val;
-        int case2 = root.val + root.left.left.val + root.left.right.val + root.right.left.val + root.right.right.val;
-        int case3 = root.left.val + root.right.left.val + root.right.right.val;
-        int case4 = root.right.val + root.left.left.val + root.left.right.val;
-        root.val = Math.max(Math.max(case1, case2), Math.max(case3, case4));
+        //在dp[l]和dp[r]的计算中实际已经包含了dp[ll]、dp[lr]、dp[rr]、dp[rl]的取舍情况，因此可以简化为前两种情况。
+        //状态转移方程为dp[root] = Max(dp[l]+dp[r], root.val+dp[ll]+dp[lr]+dp[rr]+dp[rl])
+        root.val = Math.max(root.left.val + root.right.val, root.val + root.left.left.val + root.left.right.val + root.right.left.val + root.right.right.val);
 
         return root;
     }
