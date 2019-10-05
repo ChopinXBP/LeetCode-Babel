@@ -175,6 +175,10 @@ LeetCode
 178.EvaluateDivision                                2019.10.3   java
 179.QueueReconstructionByHeight                     2019.10.3   java
 180.PartitionEqualSubsetSum                         2019.10.4   java
+181.PathSumIII                                      2019.10.5   java
+182.FindAllAnagramsInAString                        2019.10.5   java
+183.FindAllNumbersDisappearedInAnArray              2019.10.5   java
+184.HammingDistance                                 2019.10.5   java
 
 */
 

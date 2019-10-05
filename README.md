@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-55 | 101 | 28 | 184
+58 | 102 | 28 | 188
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+188|461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[Hamming Distance](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.5|<font color=#00D700>Easy</font>|5
+187|448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://blog.csdn.net/qq_20304723/article/details/99630978)|2019.10.5|<font color=#00D700>Easy</font>|5
+186|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|Find All Anagrams in a String|2019.10.5|<font color=#FFD700>Medium</font>|5
+185|437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[Path Sum III]|2019.10.5|<font color=#00D700>Easy</font>|
 184|416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum]|2019.10.4|<font color=#FFD700>Medium</font>|
 183|406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height]|2019.10.3|<font color=#FFD700>Medium</font>|
 182|399|[除法求值](https://leetcode-cn.com/problems/evaluate-division/)|Evaluate Division|2019.10.3|<font color=#FFD700>Medium</font>|5
@@ -55,7 +59,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 166|412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|2019.9.20|<font color=#00D700>Easy</font>|1
 165|395|[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Longest Substring with At Least K Repeating Characters]|2019.9.20|<font color=#FFD700>Medium</font>|
 164|387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|First Unique Character in a String|2019.9.19|<font color=#00D700>Easy</font>|3
-163|384|[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)|[Shuffle an Array]|2019.9.19|<font color=#FFD700>Medium</font>|
+163|384|[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)|[Shuffle an Array](https://blog.csdn.net/qq_20304723/article/details/102161983)|2019.9.19|<font color=#FFD700>Medium</font>|6
 162|381|[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Insert Delete GetRandom O(1) - Duplicates allowed](https://blog.csdn.net/qq_20304723/article/details/102089884)|2019.9.18|<font color=#D70000>Hard</font>|7
 161|380|[常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)|[Insert Delete GetRandom O(1)](https://blog.csdn.net/qq_20304723/article/details/102089884)|2019.9.18|<font color=#FFD700>Medium</font>|6
 160|378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Kth Smallest Element in a Sorted Matrix](https://blog.csdn.net/qq_20304723/article/details/101998059)|2019.9.17|<font color=#FFD700>Medium</font>|6
