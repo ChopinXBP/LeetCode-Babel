@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/SqrtX.java" line="22" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindAllAnagramsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertBSTToGreaterTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TargetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCodeContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeContent.java" afterDir="false" />
@@ -26,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="176">
-                <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <first_editor relative-caret-position="66">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,8 +39,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="180" column="19" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+              <folding>
+                <element signature="e#0#11798#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,9 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SlidingWindowMaximum.java" />
-        <option value="$PROJECT_DIR$/src/SearchA2DMatrixII.java" />
-        <option value="$PROJECT_DIR$/src/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/MissingNumber.java" />
         <option value="$PROJECT_DIR$/src/PerfectSquares.java" />
         <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
@@ -132,15 +134,18 @@
         <option value="$PROJECT_DIR$/src/PathSumIII.java" />
         <option value="$PROJECT_DIR$/src/FindAllAnagramsInAString.java" />
         <option value="$PROJECT_DIR$/src/FindAllNumbersDisappearedInAnArray.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/TargetSum.java" />
+        <option value="$PROJECT_DIR$/src/ConvertBSTToGreaterTree.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
+        <option value="$PROJECT_DIR$/src/DiameterOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="73" />
+    <option name="y" value="17" />
     <option name="width" value="1535" />
     <option name="height" value="1040" />
   </component>
@@ -152,8 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +173,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,7 +370,8 @@
       <workItem from="1569814661249" duration="4514000" />
       <workItem from="1569917211929" duration="17047000" />
       <workItem from="1570079320575" duration="16263000" />
-      <workItem from="1570158583429" duration="23318000" />
+      <workItem from="1570158583429" duration="23463000" />
+      <workItem from="1570431494028" duration="6987000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -392,7 +398,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="991623000" />
+    <option name="totallyTimeSpent" value="998755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,10 +410,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,8 +430,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49413645" visible="true" weight="0.23076923" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50586355" side_tool="true" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4936034" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5063966" side_tool="true" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -448,18 +454,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EvaluateReversePolishNotation.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -672,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -724,18 +711,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TargetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertBSTToGreaterTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiameterOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="180" column="19" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+          <folding>
+            <element signature="e#0#11798#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>

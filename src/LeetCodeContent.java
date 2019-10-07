@@ -179,8 +179,29 @@ LeetCode
 182.FindAllAnagramsInAString                        2019.10.5   java
 183.FindAllNumbersDisappearedInAnArray              2019.10.5   java
 184.HammingDistance                                 2019.10.5   java
+185.TargetSum                                       2019.10.7   java
+186.ConvertBSTToGreaterTree                         2019.10.7   java
+187.DiameterOfBinaryTree                            2019.10.7   java
 
 */
 
 public class LeetCodeContent {
+
+    public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x) {
+            val = x;
+        }
+    }
+
+    public class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
+    }
 }

@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-58 | 102 | 28 | 188
+60 | 103 | 28 | 191
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+191|543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|Diameter of Binary Tree|2019.10.7|<font color=#00D700>Easy</font>|3
+190|538|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|Convert BST to Greater Tree|2019.10.7|<font color=#00D700>Easy</font>|3
+189|494|[目标和](https://leetcode-cn.com/problems/target-sum/)|[Target Sum]|2019.10.7|<font color=#FFD700>Medium</font>|
 188|461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[Hamming Distance](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.5|<font color=#00D700>Easy</font>|5
 187|448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://blog.csdn.net/qq_20304723/article/details/99630978)|2019.10.5|<font color=#00D700>Easy</font>|5
 186|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|Find All Anagrams in a String|2019.10.5|<font color=#FFD700>Medium</font>|5
@@ -57,7 +60,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 168|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[Next Permutation]|2019.9.24|<font color=#FFD700>Medium</font>|
 167|454|[四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|4Sum II|2019.9.23|<font color=#FFD700>Medium</font>|4
 166|412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|2019.9.20|<font color=#00D700>Easy</font>|1
-165|395|[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Longest Substring with At Least K Repeating Characters]|2019.9.20|<font color=#FFD700>Medium</font>|
+165|395|[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Longest Substring with At Least K Repeating Characters](https://blog.csdn.net/qq_20304723/article/details/102313689)|2019.9.20|<font color=#FFD700>Medium</font>|8
 164|387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|First Unique Character in a String|2019.9.19|<font color=#00D700>Easy</font>|3
 163|384|[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)|[Shuffle an Array](https://blog.csdn.net/qq_20304723/article/details/102161983)|2019.9.19|<font color=#FFD700>Medium</font>|6
 162|381|[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Insert Delete GetRandom O(1) - Duplicates allowed](https://blog.csdn.net/qq_20304723/article/details/102089884)|2019.9.18|<font color=#D70000>Hard</font>|7
