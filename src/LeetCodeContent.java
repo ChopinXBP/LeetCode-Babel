@@ -182,6 +182,8 @@ LeetCode
 185.TargetSum                                       2019.10.7   java
 186.ConvertBSTToGreaterTree                         2019.10.7   java
 187.DiameterOfBinaryTree                            2019.10.7   java
+188.SubarraySumEqualsK                              2019.10.8   java
+189.ShortestUnsortedContinuousSubarray              2019.10.8   java
 
 */
 
