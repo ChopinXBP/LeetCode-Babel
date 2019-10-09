@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-61 | 104 | 28 | 193
+62 | 106 | 28 | 196
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings]|2019.10.9|<font color=#FFD700>Medium</font>|
+195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler]|2019.10.9|<font color=#FFD700>Medium</font>|
+194|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Merge Two Binary Trees|2019.10.9|<font color=#00D700>Easy</font>|3
 193|581|[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)|[Shortest Unsorted Continuous Subarray]|2019.10.8|<font color=#00D700>Easy</font>|
 192|560|[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[Subarray Sum Equals K]|2019.10.8|<font color=#FFD700>Medium</font>|
 191|543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|Diameter of Binary Tree|2019.10.7|<font color=#00D700>Easy</font>|3
@@ -58,7 +61,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance]|2019.9.29|<font color=#D70000>Hard</font>|
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
 170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
-169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses]|2019.9.25|<font color=#D70000>Hard</font>|
+169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses](https://blog.csdn.net/qq_20304723/article/details/102467389)|2019.9.25|<font color=#D70000>Hard</font>|10
 168|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[Next Permutation](https://blog.csdn.net/qq_20304723/article/details/102393848)|2019.9.24|<font color=#FFD700>Medium</font>|6
 167|454|[四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|4Sum II|2019.9.23|<font color=#FFD700>Medium</font>|4
 166|412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|2019.9.20|<font color=#00D700>Easy</font>|1

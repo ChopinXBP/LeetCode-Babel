@@ -184,6 +184,9 @@ LeetCode
 187.DiameterOfBinaryTree                            2019.10.7   java
 188.SubarraySumEqualsK                              2019.10.8   java
 189.ShortestUnsortedContinuousSubarray              2019.10.8   java
+190.MergeTwoBinaryTrees                             2019.10.8   java
+191.TaskScheduler                                   2019.10.9   java
+192.PalindromicSubstrings                           2019.10.9   java
 
 */
 
