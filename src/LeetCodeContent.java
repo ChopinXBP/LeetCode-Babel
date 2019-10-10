@@ -187,8 +187,14 @@ LeetCode
 190.MergeTwoBinaryTrees                             2019.10.8   java
 191.TaskScheduler                                   2019.10.9   java
 192.PalindromicSubstrings                           2019.10.9   java
+193.DailyTemperatures                               2019.10.10  java
+194.DesignCircularQueue                             2019.10.10  java
+195.OpenTheLock                                     2019.10.10  java
+196.CloneGraph                                      2019.10.10  java
 
 */
+
+import java.util.List;
 
 public class LeetCodeContent {
 
@@ -207,6 +213,16 @@ public class LeetCodeContent {
         ListNode(int x) {
             val = x;
             next = null;
+        }
+    }
+
+    class Node {
+        public int val;
+        public List<Node> neighbors;
+        public Node() {}
+        public Node(int _val, List<Node> _neighbors) {
+            val = _val;
+            neighbors = _neighbors;
         }
     }
 }

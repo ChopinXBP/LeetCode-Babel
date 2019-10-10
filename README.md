@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-62 | 106 | 28 | 196
+62 | 110 | 28 | 200
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+200|133|[克隆图](https://leetcode-cn.com/problems/clone-graph/)|Clone Graph|2019.10.10|<font color=#FFD700>Medium</font>|5
+199|752|[打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)|Open the Lock|2019.10.10|<font color=#FFD700>Medium</font>|5
+198|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)|[Design Circular Queue]|2019.10.10|<font color=#FFD700>Medium</font>|
+197|739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Daily Temperatures|2019.10.10|<font color=#FFD700>Medium</font>|5
 196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings]|2019.10.9|<font color=#FFD700>Medium</font>|
 195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler]|2019.10.9|<font color=#FFD700>Medium</font>|
 194|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Merge Two Binary Trees|2019.10.9|<font color=#00D700>Easy</font>|3
