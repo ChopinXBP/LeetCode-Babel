@@ -64,7 +64,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle]|2019.9.29|<font color=#D70000>Hard</font>|
 172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance]|2019.9.29|<font color=#D70000>Hard</font>|
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
-170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum]|2019.9.28|<font color=#FFD700>Medium</font>|
+170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum](https://blog.csdn.net/qq_20304723/article/details/102484501)|2019.9.28|<font color=#FFD700>Medium</font>|7
 169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses](https://blog.csdn.net/qq_20304723/article/details/102467389)|2019.9.25|<font color=#D70000>Hard</font>|10
 168|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[Next Permutation](https://blog.csdn.net/qq_20304723/article/details/102393848)|2019.9.24|<font color=#FFD700>Medium</font>|6
 167|454|[四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|4Sum II|2019.9.23|<font color=#FFD700>Medium</font>|4
