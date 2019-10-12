@@ -191,6 +191,10 @@ LeetCode
 194.DesignCircularQueue                             2019.10.10  java
 195.OpenTheLock                                     2019.10.10  java
 196.CloneGraph                                      2019.10.10  java
+197.ImplementStackUsingQueues                       2019.10.12  java
+198.ImplementQueueUsingStacks                       2019.10.12  java
+199.FloodFill                                       2019.10.12  java
+200.Matrix01                                        2019.10.12  java
 
 */
 
