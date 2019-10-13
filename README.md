@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-65 | 111 | 28 | 204
+65 | 112 | 28 | 205
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+205|841|[钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)|Keys and Rooms|2019.10.13|<font color=#FFD700>Medium</font>|3
 204|542|[01 矩阵](https://leetcode-cn.com/problems/01-matrix/)|[01 Matrix]|2019.10.12|<font color=#FFD700>Medium</font>|
 203|733|[图像渲染](https://leetcode-cn.com/problems/flood-fill/)|Flood Fill|2019.10.12|<font color=#00D700>Easy</font>|3
 202|232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|Implement Queue using Stacks|2019.10.12|<font color=#00D700>Easy</font>|3
@@ -66,7 +67,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 175|221|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[Maximal Square]|2019.9.30|<font color=#FFD700>Medium</font>|
 174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List]|2019.9.29|<font color=#FFD700>Medium</font>|
 173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle]|2019.9.29|<font color=#D70000>Hard</font>|
-172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance]|2019.9.29|<font color=#D70000>Hard</font>|
+172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance](https://blog.csdn.net/qq_20304723/article/details/102531632)|2019.9.29|<font color=#D70000>Hard</font>|10
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum](https://blog.csdn.net/qq_20304723/article/details/102526391)|2019.9.28|<font color=#FFD700>Medium</font>|7
 170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum](https://blog.csdn.net/qq_20304723/article/details/102484501)|2019.9.28|<font color=#FFD700>Medium</font>|7
 169|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Longest Valid Parentheses](https://blog.csdn.net/qq_20304723/article/details/102467389)|2019.9.25|<font color=#D70000>Hard</font>|10
