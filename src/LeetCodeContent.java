@@ -196,6 +196,8 @@ LeetCode
 199.FloodFill                                       2019.10.12  java
 200.Matrix01                                        2019.10.12  java
 201.KeysAndRooms                                    2019.10.13  java
+202.FindPivotIndex                                  2019.10.14  java
+203.LargestNumberAtLeastTwiceOfOthers               2019.10.14  java
 
 */
 
