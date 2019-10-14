@@ -66,9 +66,9 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 178|309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Best Time to Buy and Sell Stock with Cooldown](https://blog.csdn.net/qq_20304723/article/details/96774911)|2019.10.1|<font color=#FFD700>Medium</font>|7
 177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses]]|2019.9.30|<font color=#D70000>Hard</font>|
 176|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|Invert Binary Tree|2019.9.30|<font color=#00D700>Easy</font>|3
-175|221|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[Maximal Square]|2019.9.30|<font color=#FFD700>Medium</font>|
+175|221|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[Maximal Square](https://blog.csdn.net/qq_20304723/article/details/102547160)|2019.9.30|<font color=#FFD700>Medium</font>|9
 174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List]|2019.9.29|<font color=#FFD700>Medium</font>|
-173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle]|2019.9.29|<font color=#D70000>Hard</font>|
+173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle](https://blog.csdn.net/qq_20304723/article/details/102547160)|2019.9.29|<font color=#D70000>Hard</font>|10
 172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance](https://blog.csdn.net/qq_20304723/article/details/102531632)|2019.9.29|<font color=#D70000>Hard</font>|10
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum](https://blog.csdn.net/qq_20304723/article/details/102526391)|2019.9.28|<font color=#FFD700>Medium</font>|7
 170|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[Combination Sum](https://blog.csdn.net/qq_20304723/article/details/102484501)|2019.9.28|<font color=#FFD700>Medium</font>|7
