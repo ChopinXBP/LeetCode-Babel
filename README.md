@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-67 | 112 | 28 | 207
+67 | 113 | 28 | 208
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+208|498|[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)|[Diagonal Traverse]|2019.10.15|<font color=#FFD700>Medium</font>|
 207|747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|Largest Number At Least Twice of Others|2019.10.14|<font color=#00D700>Easy</font>|3
 206|724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|Find Pivot Index|2019.10.14|<font color=#00D700>Easy</font>|3
 205|841|[钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)|Keys and Rooms|2019.10.13|<font color=#FFD700>Medium</font>|3
@@ -67,7 +68,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses]]|2019.9.30|<font color=#D70000>Hard</font>|
 176|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|Invert Binary Tree|2019.9.30|<font color=#00D700>Easy</font>|3
 175|221|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[Maximal Square](https://blog.csdn.net/qq_20304723/article/details/102547160)|2019.9.30|<font color=#FFD700>Medium</font>|9
-174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List]|2019.9.29|<font color=#FFD700>Medium</font>|
+174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List](https://blog.csdn.net/qq_20304723/article/details/102567558)|2019.9.29|<font color=#FFD700>Medium</font>|5
 173|85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[Maximal Rectangle](https://blog.csdn.net/qq_20304723/article/details/102547160)|2019.9.29|<font color=#D70000>Hard</font>|10
 172|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[Edit Distance](https://blog.csdn.net/qq_20304723/article/details/102531632)|2019.9.29|<font color=#D70000>Hard</font>|10
 171|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[Minimum Path Sum](https://blog.csdn.net/qq_20304723/article/details/102526391)|2019.9.28|<font color=#FFD700>Medium</font>|7
