@@ -199,6 +199,7 @@ LeetCode
 202.FindPivotIndex                                  2019.10.14  java
 203.LargestNumberAtLeastTwiceOfOthers               2019.10.14  java
 204.DiagonalTraverse                                2019.10.15  java
+205.AddBinary                                       2019.10.16  java
 
 */
 

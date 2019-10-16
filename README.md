@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-67 | 113 | 28 | 208
+68 | 113 | 28 | 209
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+209|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|Add Binary|2019.10.16|<font color=#00D700>Easy</font>|4
 208|498|[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)|[Diagonal Traverse]|2019.10.15|<font color=#FFD700>Medium</font>|
 207|747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|Largest Number At Least Twice of Others|2019.10.14|<font color=#00D700>Easy</font>|3
 206|724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|Find Pivot Index|2019.10.14|<font color=#00D700>Easy</font>|3
@@ -65,7 +66,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 180|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[Counting Bits](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.3|<font color=#FFD700>Medium</font>|6
 179|337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|[House Robber III]|2019.10.2|<font color=#FFD700>Medium</font>|
 178|309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Best Time to Buy and Sell Stock with Cooldown](https://blog.csdn.net/qq_20304723/article/details/96774911)|2019.10.1|<font color=#FFD700>Medium</font>|7
-177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses]]|2019.9.30|<font color=#D70000>Hard</font>|
+177|301|[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)|[Remove Invalid Parentheses](https://blog.csdn.net/qq_20304723/article/details/102581139)|2019.9.30|<font color=#D70000>Hard</font>|8
 176|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|Invert Binary Tree|2019.9.30|<font color=#00D700>Easy</font>|3
 175|221|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[Maximal Square](https://blog.csdn.net/qq_20304723/article/details/102547160)|2019.9.30|<font color=#FFD700>Medium</font>|9
 174|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List](https://blog.csdn.net/qq_20304723/article/details/102567558)|2019.9.29|<font color=#FFD700>Medium</font>|5
