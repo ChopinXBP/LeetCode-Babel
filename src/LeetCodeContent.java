@@ -200,6 +200,8 @@ LeetCode
 203.LargestNumberAtLeastTwiceOfOthers               2019.10.14  java
 204.DiagonalTraverse                                2019.10.15  java
 205.AddBinary                                       2019.10.16  java
+206.ArrayPartitionI                                 2019.10.18  java
+207.TwoSumIIInputArrayIsSorted                      2019.10.18  java
 
 */
 
