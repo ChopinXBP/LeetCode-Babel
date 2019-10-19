@@ -202,6 +202,10 @@ LeetCode
 205.AddBinary                                       2019.10.16  java
 206.ArrayPartitionI                                 2019.10.18  java
 207.TwoSumIIInputArrayIsSorted                      2019.10.18  java
+208.RemoveElement                                   2019.10.19  java
+209.MaxConsecutiveOnes                              2019.10.19  java
+210.MinimumSizeSubarraySum                          2019.10.19  java
+211.ReverseWordsInAString                           2019.10.19  java
 
 */
 

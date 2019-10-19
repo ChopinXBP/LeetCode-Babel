@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-69 | 113 | 28 | 210
+72 | 115 | 28 | 215
 </center>
 
 ---
@@ -34,6 +34,11 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+215|151|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|Reverse Words in a String|2019.10.19|<font color=#FFD700>Medium</font>|4
+214|209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Minimum Size Subarray Sum|2019.10.19|<font color=#FFD700>Medium</font>|4
+213|485|[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)|Max Consecutive Ones|2019.10.19|<font color=#00D700>Easy</font>|3
+212|27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|Remove Element|2019.10.19|<font color=#00D700>Easy</font>|3
+211|167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|Two Sum II - Input array is sorted|2019.10.18|<font color=#00D700>Easy</font>|3
 210|561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|Array Partition I|2019.10.18|<font color=#00D700>Easy</font>|3
 209|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|Add Binary|2019.10.16|<font color=#00D700>Easy</font>|4
 208|498|[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)|[Diagonal Traverse]|2019.10.15|<font color=#FFD700>Medium</font>|
@@ -63,7 +68,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 184|416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum]|2019.10.4|<font color=#FFD700>Medium</font>|
 183|406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height]|2019.10.3|<font color=#FFD700>Medium</font>|
 182|399|[除法求值](https://leetcode-cn.com/problems/evaluate-division/)|Evaluate Division|2019.10.3|<font color=#FFD700>Medium</font>|5
-181|394|[字符串解码](https://leetcode-cn.com/problems/decode-string/)|[Decode String]|2019.10.3|<font color=#FFD700>Medium</font>|
+181|394|[字符串解码](https://leetcode-cn.com/problems/decode-string/)|[Decode String](https://blog.csdn.net/qq_20304723/article/details/102640846)|2019.10.3|<font color=#FFD700>Medium</font>|6
 180|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[Counting Bits](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.3|<font color=#FFD700>Medium</font>|6
 179|337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|[House Robber III](https://blog.csdn.net/qq_20304723/article/details/102627238)|2019.10.2|<font color=#FFD700>Medium</font>|8
 178|309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Best Time to Buy and Sell Stock with Cooldown](https://blog.csdn.net/qq_20304723/article/details/96774911)|2019.10.1|<font color=#FFD700>Medium</font>|7
