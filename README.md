@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-72 | 115 | 28 | 215
+73 | 117 | 28 | 218
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+218|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|2019.10.20|<font color=#FFD700>Medium</font>|5
+217|203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|2019.10.20|<font color=#00D700>Easy</font>|3
+216|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[Design Linked List]|2019.10.20|<font color=#FFD700>Medium</font>|
 215|151|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|Reverse Words in a String|2019.10.19|<font color=#FFD700>Medium</font>|4
 214|209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Minimum Size Subarray Sum|2019.10.19|<font color=#FFD700>Medium</font>|4
 213|485|[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)|Max Consecutive Ones|2019.10.19|<font color=#00D700>Easy</font>|3

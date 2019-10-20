@@ -206,6 +206,9 @@ LeetCode
 209.MaxConsecutiveOnes                              2019.10.19  java
 210.MinimumSizeSubarraySum                          2019.10.19  java
 211.ReverseWordsInAString                           2019.10.19  java
+212.DesignLinkedList                                2019.10.20  java
+213.RemoveLinkedListElements                        2019.10.20  java
+214.FlattenAMultilevelDoublyLinkedList              2019.10.20  java
 
 */
 
@@ -233,11 +236,11 @@ public class LeetCodeContent {
 
     class Node {
         public int val;
-        public List<Node> neighbors;
+        public List<Node> next;
         public Node() {}
-        public Node(int _val, List<Node> _neighbors) {
-            val = _val;
-            neighbors = _neighbors;
+        public Node(int v, List<Node> n) {
+            val = v;
+            next = n;
         }
     }
 }
