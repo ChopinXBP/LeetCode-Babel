@@ -209,6 +209,8 @@ LeetCode
 212.DesignLinkedList                                2019.10.20  java
 213.RemoveLinkedListElements                        2019.10.20  java
 214.FlattenAMultilevelDoublyLinkedList              2019.10.20  java
+215.DesignHashSet                                   2019.10.21  java
+216.DesignHashMap                                   2019.10.21  java
 
 */
 

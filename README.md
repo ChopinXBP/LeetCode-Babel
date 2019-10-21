@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-73 | 117 | 28 | 218
+75 | 117 | 28 | 220
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+220|706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)|[Design HashMap]|2019.10.21|<font color=#00D700>Easy</font>|
+219|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|[Design HashSet]|2019.10.21|<font color=#00D700>Easy</font>|
 218|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|2019.10.20|<font color=#FFD700>Medium</font>|5
 217|203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|2019.10.20|<font color=#00D700>Easy</font>|3
 216|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[Design Linked List]|2019.10.20|<font color=#FFD700>Medium</font>|
@@ -68,7 +70,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 187|448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://blog.csdn.net/qq_20304723/article/details/99630978)|2019.10.5|<font color=#00D700>Easy</font>|5
 186|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|Find All Anagrams in a String|2019.10.5|<font color=#FFD700>Medium</font>|5
 185|437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[Path Sum III]|2019.10.5|<font color=#00D700>Easy</font>|
-184|416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum]|2019.10.4|<font color=#FFD700>Medium</font>|
+184|416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum](https://blog.csdn.net/qq_20304723/article/details/102668905)|2019.10.4|<font color=#FFD700>Medium</font>|6
 183|406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height](https://blog.csdn.net/qq_20304723/article/details/102647178)|2019.10.3|<font color=#FFD700>Medium</font>|5
 182|399|[除法求值](https://leetcode-cn.com/problems/evaluate-division/)|Evaluate Division|2019.10.3|<font color=#FFD700>Medium</font>|5
 181|394|[字符串解码](https://leetcode-cn.com/problems/decode-string/)|[Decode String](https://blog.csdn.net/qq_20304723/article/details/102640846)|2019.10.3|<font color=#FFD700>Medium</font>|6
