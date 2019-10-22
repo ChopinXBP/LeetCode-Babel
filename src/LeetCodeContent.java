@@ -211,6 +211,9 @@ LeetCode
 214.FlattenAMultilevelDoublyLinkedList              2019.10.20  java
 215.DesignHashSet                                   2019.10.21  java
 216.DesignHashMap                                   2019.10.21  java
+217.IntersectionOfTwoArrays                         2019.10.22  java
+218.IsomorphicStrings                               2019.10.22  java
+219.MinimumIndexSumOfTwoLists                       2019.10.22  java
 
 */
 

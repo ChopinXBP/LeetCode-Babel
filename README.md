@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-75 | 117 | 28 | 220
+78 | 117 | 28 | 223
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+223|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|Minimum Index Sum of Two Lists|2019.10.22|<font color=#00D700>Easy</font>|3
+222|205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)|Isomorphic Strings|2019.10.22|<font color=#00D700>Easy</font>|3
+221|349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|Intersection of Two Arrays|2019.10.22|<font color=#00D700>Easy</font>|3
 220|706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)|[Design HashMap]|2019.10.21|<font color=#00D700>Easy</font>|
 219|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|[Design HashSet]|2019.10.21|<font color=#00D700>Easy</font>|
 218|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|2019.10.20|<font color=#FFD700>Medium</font>|5
@@ -69,7 +72,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 188|461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[Hamming Distance](https://blog.csdn.net/qq_20304723/article/details/100832135)|2019.10.5|<font color=#00D700>Easy</font>|5
 187|448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://blog.csdn.net/qq_20304723/article/details/99630978)|2019.10.5|<font color=#00D700>Easy</font>|5
 186|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|Find All Anagrams in a String|2019.10.5|<font color=#FFD700>Medium</font>|5
-185|437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[Path Sum III]|2019.10.5|<font color=#00D700>Easy</font>|
+185|437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[Path Sum III](https://blog.csdn.net/qq_20304723/article/details/102688550)|2019.10.5|<font color=#00D700>Easy</font>|6
 184|416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum](https://blog.csdn.net/qq_20304723/article/details/102668905)|2019.10.4|<font color=#FFD700>Medium</font>|6
 183|406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height](https://blog.csdn.net/qq_20304723/article/details/102647178)|2019.10.3|<font color=#FFD700>Medium</font>|5
 182|399|[除法求值](https://leetcode-cn.com/problems/evaluate-division/)|Evaluate Division|2019.10.3|<font color=#FFD700>Medium</font>|5
