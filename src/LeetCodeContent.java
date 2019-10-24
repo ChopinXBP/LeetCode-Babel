@@ -214,6 +214,8 @@ LeetCode
 217.IntersectionOfTwoArrays                         2019.10.22  java
 218.IsomorphicStrings                               2019.10.22  java
 219.MinimumIndexSumOfTwoLists                       2019.10.22  java
+220.ContainsDuplicateII                             2019.10.24  java
+221.FindDuplicateSubtrees                           2019.10.24  java
 
 */
 
