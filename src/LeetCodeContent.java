@@ -216,6 +216,9 @@ LeetCode
 219.MinimumIndexSumOfTwoLists                       2019.10.22  java
 220.ContainsDuplicateII                             2019.10.24  java
 221.FindDuplicateSubtrees                           2019.10.24  java
+222.JewelsAndStones                                 2019.10.26  java
+223.BinarySearch                                    2019.10.26  java
+224.GuessNumberHigherOrLower                        2019.10.26  java
 
 */
 

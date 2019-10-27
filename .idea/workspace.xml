@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindDuplicateSubtrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessNumberHigherOrLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCodeContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeContent.java" afterDir="false" />
@@ -20,26 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="330">
-                <caret line="72" column="179" selection-start-line="72" selection-start-column="179" selection-end-line="72" selection-end-column="179" />
+              <first_editor relative-caret-position="103">
+                <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="221" column="22" lean-forward="true" selection-start-line="221" selection-start-column="22" selection-end-line="221" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#14751#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="550">
+              <caret line="220" column="68" lean-forward="true" selection-start-line="220" selection-start-column="68" selection-end-line="220" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -85,9 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RemoveInvalidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStockWithCooldown.java" />
-        <option value="$PROJECT_DIR$/src/CountingBits.java" />
         <option value="$PROJECT_DIR$/src/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/EvaluateDivision.java" />
         <option value="$PROJECT_DIR$/src/QueueReconstructionByHeight.java" />
@@ -133,15 +128,17 @@
         <option value="$PROJECT_DIR$/src/IsomorphicStrings.java" />
         <option value="$PROJECT_DIR$/src/MinimumIndexSumOfTwoLists.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicateII.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/FindDuplicateSubtrees.java" />
+        <option value="$PROJECT_DIR$/src/JewelsAndStones.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
+        <option value="$PROJECT_DIR$/src/GuessNumberHigherOrLower.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1969" />
-    <option name="y" value="29" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -153,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +166,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,7 +378,8 @@
       <workItem from="1571534320499" duration="8130000" />
       <workItem from="1571639821409" duration="9474000" />
       <workItem from="1571718248272" duration="8419000" />
-      <workItem from="1571885451445" duration="8845000" />
+      <workItem from="1571885451445" duration="9781000" />
+      <workItem from="1571972121838" duration="7305000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -408,7 +406,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1113065000" />
+    <option name="totallyTimeSpent" value="1121306000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,10 +418,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1969" y="29" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3411514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34488273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,8 +438,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48614073" visible="true" weight="0.21343446" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5138593" side_tool="true" visible="true" weight="0.21343446" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48560768" visible="true" weight="0.21343446" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5143923" side_tool="true" visible="true" weight="0.21343446" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -464,34 +462,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/EvaluateDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QueueReconstructionByHeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HouseRobberIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-          <folding>
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PartitionEqualSubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -890,16 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="72" column="179" selection-start-line="72" selection-start-column="179" selection-end-line="72" selection-end-column="179" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindDuplicateSubtrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -910,13 +870,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JewelsAndStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuessNumberHigherOrLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="221" column="22" lean-forward="true" selection-start-line="221" selection-start-column="22" selection-end-line="221" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#14751#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="550">
+          <caret line="220" column="68" lean-forward="true" selection-start-line="220" selection-start-column="68" selection-end-line="220" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="103">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

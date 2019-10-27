@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-79 | 118 | 28 | 225
+82 | 118 | 28 | 228
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+228|374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|Guess Number Higher or Lower|2019.10.26|<font color=#00D700>Easy</font>|5
+227|704|[二分查找](https://leetcode-cn.com/problems/binary-search/)|Binary Search|2019.10.26|<font color=#00D700>Easy</font>|5
+226|771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|Jewels and Stones|2019.10.26|<font color=#00D700>Easy</font>|3
 225|652|[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|[Find Duplicate Subtrees]|2019.10.24|<font color=#FFD700>Medium</font>|
 224|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|Contains Duplicate II|2019.10.24|<font color=#00D700>Easy</font>|3
 223|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|Minimum Index Sum of Two Lists|2019.10.22|<font color=#00D700>Easy</font>|3
@@ -67,7 +70,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler]|2019.10.9|<font color=#FFD700>Medium</font>|
 194|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Merge Two Binary Trees|2019.10.9|<font color=#00D700>Easy</font>|3
 193|581|[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)|[Shortest Unsorted Continuous Subarray]|2019.10.8|<font color=#00D700>Easy</font>|
-192|560|[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[Subarray Sum Equals K]|2019.10.8|<font color=#FFD700>Medium</font>|
+192|560|[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[Subarray Sum Equals K](https://blog.csdn.net/qq_20304723/article/details/102756778)|2019.10.8|<font color=#FFD700>Medium</font>|7
 191|543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|Diameter of Binary Tree|2019.10.7|<font color=#00D700>Easy</font>|3
 190|538|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|Convert BST to Greater Tree|2019.10.7|<font color=#00D700>Easy</font>|3
 189|494|[目标和](https://leetcode-cn.com/problems/target-sum/)|[Target Sum](https://blog.csdn.net/qq_20304723/article/details/102725194)|2019.10.7|<font color=#FFD700>Medium</font>|8
