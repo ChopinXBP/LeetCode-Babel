@@ -219,6 +219,9 @@ LeetCode
 222.JewelsAndStones                                 2019.10.26  java
 223.BinarySearch                                    2019.10.26  java
 224.GuessNumberHigherOrLower                        2019.10.26  java
+225.FirstBadVersion                                 2019.10.27  java
+226.FindMinimumInRotatedSortedArray                 2019.10.27  java
+227.FindKClosestElements                            2019.10.27  java
 
 */
 
