@@ -222,6 +222,9 @@ LeetCode
 225.FirstBadVersion                                 2019.10.27  java
 226.FindMinimumInRotatedSortedArray                 2019.10.27  java
 227.FindKClosestElements                            2019.10.27  java
+228.ValidPerfectSquare                              2019.10.28  java
+229.FindSmallestLetterGreaterThanTarget             2019.10.28  java
+230.FindMinimumInRotatedSortedArrayII               2019.10.28  java
 
 */
 

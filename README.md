@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-83 | 120 | 28 | 231
+85 | 120 | 29 | 234
 </center>
 
 ---
@@ -34,8 +34,11 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+234|154|[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](https://blog.csdn.net/qq_20304723/article/details/92077409)|2019.10.28|<font color=#D70000>Hard</font>|7
+233|744|[寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|Find Smallest Letter Greater Than Target|2019.10.28|<font color=#00D700>Easy</font>|5
+232|367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|Valid Perfect Square|2019.10.28|<font color=#00D700>Easy</font>|5
 231|658|[找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/)|Find K Closest Elements|2019.10.27|<font color=#FFD700>Medium</font>|6
-230|153|[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|Find Minimum in Rotated Sorted Array|2019.10.27|<font color=#FFD700>Medium</font>|6
+230|153|[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[Find Minimum in Rotated Sorted Array](https://blog.csdn.net/qq_20304723/article/details/92077409)|2019.10.27|<font color=#FFD700>Medium</font>|6
 229|278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|First Bad Version|2019.10.27|<font color=#00D700>Easy</font>|5
 228|374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|Guess Number Higher or Lower|2019.10.26|<font color=#00D700>Easy</font>|5
 227|704|[二分查找](https://leetcode-cn.com/problems/binary-search/)|Binary Search|2019.10.26|<font color=#00D700>Easy</font>|5
@@ -70,7 +73,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 198|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)|[Design Circular Queue]|2019.10.10|<font color=#FFD700>Medium</font>|
 197|739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Daily Temperatures|2019.10.10|<font color=#FFD700>Medium</font>|5
 196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings]|2019.10.9|<font color=#FFD700>Medium</font>|
-195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler]|2019.10.9|<font color=#FFD700>Medium</font>|
+195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler](https://blog.csdn.net/qq_20304723/article/details/102783573)|2019.10.9|<font color=#FFD700>Medium</font>|7
 194|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Merge Two Binary Trees|2019.10.9|<font color=#00D700>Easy</font>|3
 193|581|[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)|[Shortest Unsorted Continuous Subarray](https://blog.csdn.net/qq_20304723/article/details/102772151)|2019.10.8|<font color=#00D700>Easy</font>|7
 192|560|[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[Subarray Sum Equals K](https://blog.csdn.net/qq_20304723/article/details/102756778)|2019.10.8|<font color=#FFD700>Medium</font>|7
