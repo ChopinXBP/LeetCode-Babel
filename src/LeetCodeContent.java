@@ -225,6 +225,7 @@ LeetCode
 228.ValidPerfectSquare                              2019.10.28  java
 229.FindSmallestLetterGreaterThanTarget             2019.10.28  java
 230.FindMinimumInRotatedSortedArrayII               2019.10.28  java
+231.FindKthSmallestPairDistance                     2019.10.29  java
 
 */
 

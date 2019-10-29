@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-85 | 120 | 29 | 234
+85 | 120 | 30 | 235
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+235|719|[找出第k小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)|[Find K-th Smallest Pair Distance]|2019.10.29|<font color=#D70000>Hard</font>|
 234|154|[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](https://blog.csdn.net/qq_20304723/article/details/92077409)|2019.10.28|<font color=#D70000>Hard</font>|7
 233|744|[寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|Find Smallest Letter Greater Than Target|2019.10.28|<font color=#00D700>Easy</font>|5
 232|367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|Valid Perfect Square|2019.10.28|<font color=#00D700>Easy</font>|5
