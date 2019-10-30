@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-85 | 120 | 30 | 235
+85 | 121 | 32 | 238
 </center>
 
 ---
@@ -34,6 +34,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+238|145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[Binary Tree Postorder Traversal](https://blog.csdn.net/qq_20304723/article/details/97613486)|2019.10.30|<font color=#D70000>Hard</font>|6
+237|144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[Binary Tree Preorder Traversal](https://blog.csdn.net/qq_20304723/article/details/97613486)|2019.10.30|<font color=#FFD700>Medium</font>|6
+236|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|[Split Array Largest Sum]|2019.10.30|<font color=#D70000>Hard</font>|
 235|719|[找出第k小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)|[Find K-th Smallest Pair Distance]|2019.10.29|<font color=#D70000>Hard</font>|
 234|154|[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](https://blog.csdn.net/qq_20304723/article/details/92077409)|2019.10.28|<font color=#D70000>Hard</font>|7
 233|744|[寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|Find Smallest Letter Greater Than Target|2019.10.28|<font color=#00D700>Easy</font>|5

@@ -226,6 +226,9 @@ LeetCode
 229.FindSmallestLetterGreaterThanTarget             2019.10.28  java
 230.FindMinimumInRotatedSortedArrayII               2019.10.28  java
 231.FindKthSmallestPairDistance                     2019.10.29  java
+232.SplitArrayLargestSum                            2019.10.30  java
+233.BinaryTreePreorderTraversal                     2019.10.30  java
+234.BinaryTreePostorderTraversal                    2019.10.30  java
 
 */
 
