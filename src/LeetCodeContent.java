@@ -229,6 +229,10 @@ LeetCode
 232.SplitArrayLargestSum                            2019.10.30  java
 233.BinaryTreePreorderTraversal                     2019.10.30  java
 234.BinaryTreePostorderTraversal                    2019.10.30  java
+235.PathSum                                         2019.10.31  java
+236.PopulatingNextRightPointersInEachNodeII         2019.10.31  java
+237.BinarySearchTreeIterator                        2019.10.31  java
+238.SearchInABinarySearchTree                       2019.10.31  java
 
 */
 

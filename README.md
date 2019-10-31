@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-85 | 121 | 32 | 238
+87 | 123 | 32 | 242
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+242|700|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|Search in a Binary Search Tree|2019.10.31|<font color=#00D700>Easy</font>|3
+241|173|[二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|[Binary Search Tree Iterator]|2019.10.31|<font color=#FFD700>Medium</font>|
+240|117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)|Populating Next Right Pointers in Each Node II|2019.10.31|<font color=#FFD700>Medium</font>|5
+239|112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|Path Sum|2019.10.31|<font color=#00D700>Easy</font>|3
 238|145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[Binary Tree Postorder Traversal](https://blog.csdn.net/qq_20304723/article/details/97613486)|2019.10.30|<font color=#D70000>Hard</font>|6
 237|144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[Binary Tree Preorder Traversal](https://blog.csdn.net/qq_20304723/article/details/97613486)|2019.10.30|<font color=#FFD700>Medium</font>|6
 236|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|[Split Array Largest Sum]|2019.10.30|<font color=#D70000>Hard</font>|
@@ -76,7 +80,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 199|752|[打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)|Open the Lock|2019.10.10|<font color=#FFD700>Medium</font>|5
 198|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)|[Design Circular Queue]|2019.10.10|<font color=#FFD700>Medium</font>|
 197|739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Daily Temperatures|2019.10.10|<font color=#FFD700>Medium</font>|5
-196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings]|2019.10.9|<font color=#FFD700>Medium</font>|
+196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings](https://blog.csdn.net/qq_20304723/article/details/102835289)|2019.10.9|<font color=#FFD700>Medium</font>|7
 195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler](https://blog.csdn.net/qq_20304723/article/details/102783573)|2019.10.9|<font color=#FFD700>Medium</font>|7
 194|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Merge Two Binary Trees|2019.10.9|<font color=#00D700>Easy</font>|3
 193|581|[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)|[Shortest Unsorted Continuous Subarray](https://blog.csdn.net/qq_20304723/article/details/102772151)|2019.10.8|<font color=#00D700>Easy</font>|7
@@ -168,7 +172,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 107|127|[单词接龙](https://leetcode-cn.com/problems/word-ladder/)|[Word Ladder](https://blog.csdn.net/qq_20304723/article/details/98946019)|2019.6.18|<font color=#FFD700>Medium</font>|7
 106|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Valid Palindrome|2019.6.17|<font color=#00D700>Easy</font>|3
 105|118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|Pascal's Triangle|2019.6.16|<font color=#00D700>Easy</font>|3
-104|116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|Populating Next Right Pointers in Each Node|2019.6.14|<font color=#FFD700>Medium</font>|3
+104|116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|Populating Next Right Pointers in Each Node|2019.6.14|<font color=#FFD700>Medium</font>|5
 103|912|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[Sort an Array](https://blog.csdn.net/qq_20304723/article/details/98849305)|2019.6.9|<font color=#FFD700>Medium</font>|7
 102|147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)|[Insertion Sort List](https://blog.csdn.net/qq_20304723/article/details/89365823)|2019.6.8|<font color=#FFD700>Medium</font>|6
 101|109|[有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|[Convert Sorted List to Binary Search Tree](https://blog.csdn.net/qq_20304723/article/details/98736789)|2019.6.7|<font color=#FFD700>Medium</font>|7
