@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-87 | 123 | 32 | 242
+87 | 125 | 32 | 244
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+244|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|Insert into a Binary Search Tree|2019.11.1|<font color=#FFD700>Medium</font>|4
+243|450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|Delete Node in a BST|2019.11.1|<font color=#FFD700>Medium</font>|4
 242|700|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|Search in a Binary Search Tree|2019.10.31|<font color=#00D700>Easy</font>|3
 241|173|[二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|[Binary Search Tree Iterator]|2019.10.31|<font color=#FFD700>Medium</font>|
 240|117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)|Populating Next Right Pointers in Each Node II|2019.10.31|<font color=#FFD700>Medium</font>|5

@@ -233,6 +233,8 @@ LeetCode
 236.PopulatingNextRightPointersInEachNodeII         2019.10.31  java
 237.BinarySearchTreeIterator                        2019.10.31  java
 238.SearchInABinarySearchTree                       2019.10.31  java
+239.InsertIntoABinarySearchTree                     2019.11.1   java
+240.DeleteNodeInABST                                2019.11.1   java
 
 */
 
