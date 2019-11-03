@@ -235,6 +235,8 @@ LeetCode
 238.SearchInABinarySearchTree                       2019.10.31  java
 239.InsertIntoABinarySearchTree                     2019.11.1   java
 240.DeleteNodeInABST                                2019.11.1   java
+241.KthLargestElementInAStream                      2019.11.3   java
+242.ContainsDuplicateIII                            2019.11.3   java
 
 */
 

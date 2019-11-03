@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-87 | 125 | 32 | 244
+88 | 126 | 32 | 246
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+246|220|[存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[Contains Duplicate III]|2019.11.3|<font color=#FFD700>Medium</font>|
+245|703|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|Kth Largest Element in a Stream|2019.11.3|<font color=#00D700>Easy</font>|4
 244|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|Insert into a Binary Search Tree|2019.11.1|<font color=#FFD700>Medium</font>|4
 243|450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|Delete Node in a BST|2019.11.1|<font color=#FFD700>Medium</font>|4
 242|700|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|Search in a Binary Search Tree|2019.10.31|<font color=#00D700>Easy</font>|3
@@ -80,7 +82,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 201|232|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)|Implement Stack using Queues|2019.10.12|<font color=#00D700>Easy</font>|3
 200|133|[克隆图](https://leetcode-cn.com/problems/clone-graph/)|Clone Graph|2019.10.10|<font color=#FFD700>Medium</font>|5
 199|752|[打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)|Open the Lock|2019.10.10|<font color=#FFD700>Medium</font>|5
-198|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)|[Design Circular Queue]|2019.10.10|<font color=#FFD700>Medium</font>|
+198|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)|[Design Circular Queue](https://blog.csdn.net/qq_20304723/article/details/102887620)|2019.10.10|<font color=#FFD700>Medium</font>|5
 197|739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Daily Temperatures|2019.10.10|<font color=#FFD700>Medium</font>|5
 196|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Palindromic Substrings](https://blog.csdn.net/qq_20304723/article/details/102835289)|2019.10.9|<font color=#FFD700>Medium</font>|7
 195|621|[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)|[Task Scheduler](https://blog.csdn.net/qq_20304723/article/details/102783573)|2019.10.9|<font color=#FFD700>Medium</font>|7
