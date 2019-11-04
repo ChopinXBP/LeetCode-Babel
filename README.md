@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-88 | 126 | 32 | 246
+92 | 127 | 32 | 251
 </center>
 
 ---
@@ -34,6 +34,11 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+251|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|Maximum Depth of N-ary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
+250|429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|N-ary Tree Level Order Traversal|2019.11.4|<font color=#FFD700>Medium</font>|3
+249|590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|N-ary Tree Postorder Traversal|2019.11.4|<font color=#00D700>Easy</font>|3
+248|589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|N-ary Tree Preorder Traversal|2019.11.4|<font color=#00D700>Easy</font>|3
+247|110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)|Balanced Binary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
 246|220|[存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[Contains Duplicate III]|2019.11.3|<font color=#FFD700>Medium</font>|
 245|703|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|Kth Largest Element in a Stream|2019.11.3|<font color=#00D700>Easy</font>|4
 244|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|Insert into a Binary Search Tree|2019.11.1|<font color=#FFD700>Medium</font>|4

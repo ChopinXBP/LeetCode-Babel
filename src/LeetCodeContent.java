@@ -237,6 +237,8 @@ LeetCode
 240.DeleteNodeInABST                                2019.11.1   java
 241.KthLargestElementInAStream                      2019.11.3   java
 242.ContainsDuplicateIII                            2019.11.3   java
+243.BalancedBinaryTree                              2019.11.4   java
+244.NaryTreeTraversal                               2019.11.4   java
 
 */
 
