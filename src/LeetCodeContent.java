@@ -239,6 +239,7 @@ LeetCode
 242.ContainsDuplicateIII                            2019.11.3   java
 243.BalancedBinaryTree                              2019.11.4   java
 244.NaryTreeTraversal                               2019.11.4   java
+245.MapSumPairs                                     2019.11.5   java
 
 */
 

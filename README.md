@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-92 | 127 | 32 | 251
+92 | 128 | 32 | 252
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+252|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Map Sum Pairs]|2019.11.5|<font color=#FFD700>Medium</font>|
 251|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|Maximum Depth of N-ary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
 250|429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|N-ary Tree Level Order Traversal|2019.11.4|<font color=#FFD700>Medium</font>|3
 249|590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|N-ary Tree Postorder Traversal|2019.11.4|<font color=#00D700>Easy</font>|3
@@ -69,7 +70,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 219|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|[Design HashSet]|2019.10.21|<font color=#00D700>Easy</font>|
 218|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|2019.10.20|<font color=#FFD700>Medium</font>|5
 217|203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|2019.10.20|<font color=#00D700>Easy</font>|3
-216|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[Design Linked List]|2019.10.20|<font color=#FFD700>Medium</font>|
+216|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[Design Linked List](https://blog.csdn.net/qq_20304723/article/details/102912622)|2019.10.20|<font color=#FFD700>Medium</font>|6
 215|151|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|Reverse Words in a String|2019.10.19|<font color=#FFD700>Medium</font>|4
 214|209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Minimum Size Subarray Sum|2019.10.19|<font color=#FFD700>Medium</font>|4
 213|485|[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)|Max Consecutive Ones|2019.10.19|<font color=#00D700>Easy</font>|3
