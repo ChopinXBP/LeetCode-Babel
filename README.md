@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-92 | 128 | 32 | 252
+92 | 129 | 32 | 253
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words]|2019.11.6|<font color=#FFD700>Medium</font>|
 252|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Map Sum Pairs]|2019.11.5|<font color=#FFD700>Medium</font>|
 251|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|Maximum Depth of N-ary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
 250|429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|N-ary Tree Level Order Traversal|2019.11.4|<font color=#FFD700>Medium</font>|3
