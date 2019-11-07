@@ -241,6 +241,8 @@ LeetCode
 244.NaryTreeTraversal                               2019.11.4   java
 245.MapSumPairs                                     2019.11.5   java
 246.ReplaceWords                                    2019.11.6   java
+247.AddAndSearchWord                                2019.11.7   java
+248.MaximumXOROfTwoNumbersInAnArray                 2019.11.7   java
 
 */
 

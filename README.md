@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-92 | 129 | 32 | 253
+92 | 131 | 32 | 255
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array]|2019.11.7|<font color=#FFD700>Medium</font>|
+254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design]|2019.11.7|<font color=#FFD700>Medium</font>|
 253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words]|2019.11.6|<font color=#FFD700>Medium</font>|
 252|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Map Sum Pairs]|2019.11.5|<font color=#FFD700>Medium</font>|
 251|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|Maximum Depth of N-ary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
@@ -79,7 +81,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 211|167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|Two Sum II - Input array is sorted|2019.10.18|<font color=#00D700>Easy</font>|3
 210|561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|Array Partition I|2019.10.18|<font color=#00D700>Easy</font>|3
 209|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|Add Binary|2019.10.16|<font color=#00D700>Easy</font>|4
-208|498|[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)|[Diagonal Traverse]|2019.10.15|<font color=#FFD700>Medium</font>|
+208|498|[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)|[Diagonal Traverse](https://blog.csdn.net/qq_20304723/article/details/102951583)|2019.10.15|<font color=#FFD700>Medium</font>|7
 207|747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|Largest Number At Least Twice of Others|2019.10.14|<font color=#00D700>Easy</font>|3
 206|724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|Find Pivot Index|2019.10.14|<font color=#00D700>Easy</font>|3
 205|841|[钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)|Keys and Rooms|2019.10.13|<font color=#FFD700>Medium</font>|3
