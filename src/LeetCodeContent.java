@@ -243,6 +243,7 @@ LeetCode
 246.ReplaceWords                                    2019.11.6   java
 247.AddAndSearchWord                                2019.11.7   java
 248.MaximumXOROfTwoNumbersInAnArray                 2019.11.7   java
+249.PalindromePairs                                 2019.11.8   java
 
 */
 
