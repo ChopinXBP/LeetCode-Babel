@@ -244,6 +244,8 @@ LeetCode
 247.AddAndSearchWord                                2019.11.7   java
 248.MaximumXOROfTwoNumbersInAnArray                 2019.11.7   java
 249.PalindromePairs                                 2019.11.8   java
+250.ReverseVowelsOfAString                          2019.11.9   java
+251.SortCharactersByFrequency                       2019.11.9   java
 
 */
 

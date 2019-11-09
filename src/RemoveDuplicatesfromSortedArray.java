@@ -38,4 +38,21 @@ public class RemoveDuplicatesfromSortedArray {
         
         return i + 1;
     }
+
+	public int removeDuplicates2(int[] nums) {
+		if(nums == null){
+			return 0;
+		}
+		if(nums.length < 3){
+			return nums.length;
+		}
+		int idx = 1;
+		for(int i = 2; i < nums.length; i++){
+			if(nums[i] == nums[idx] && nums[i] == nums[idx - 1]){
+				continue;
+			}
+			nums[++idx] = nums[i];
+		}
+		return idx + 1;
+	}
 }

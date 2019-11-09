@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-92 | 131 | 33 | 256
+93 | 134 | 33 | 260
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+260|18|[四数之和](https://leetcode-cn.com/problems/4sum/)|[4Sum](https://blog.csdn.net/qq_20304723/article/details/90933388)|2019.11.9|<font color=#FFD700>Medium</font>|6
+259|451|[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|Sort Characters By Frequency|2019.11.9|<font color=#FFD700>Medium</font>|3
+258|345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|Sort Characters By Frequency|2019.11.9|<font color=#00D700>Easy</font>|3
+257|80|[删除排序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|Remove Duplicates from Sorted Array II|2019.11.9|<font color=#FFD700>Medium</font>|3
 256|336|[回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|[Palindrome Pairs]|2019.11.8|<font color=#D70000>Hard</font>|
 255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array]|2019.11.7|<font color=#FFD700>Medium</font>|
 254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design]|2019.11.7|<font color=#FFD700>Medium</font>|
