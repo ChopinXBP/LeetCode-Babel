@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-93 | 134 | 33 | 260
+94 | 135 | 33 | 262
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+262|547|[朋友圈](https://leetcode-cn.com/problems/friend-circles/)|Friend Circles|2019.11.10|<font color=#FFD700>Medium</font>|5
+261|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)|Number of Boomerangs|2019.11.10|<font color=#00D700>Easy</font>|4
 260|18|[四数之和](https://leetcode-cn.com/problems/4sum/)|[4Sum](https://blog.csdn.net/qq_20304723/article/details/90933388)|2019.11.9|<font color=#FFD700>Medium</font>|6
 259|451|[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|Sort Characters By Frequency|2019.11.9|<font color=#FFD700>Medium</font>|3
 258|345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|Sort Characters By Frequency|2019.11.9|<font color=#00D700>Easy</font>|3
@@ -74,8 +76,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 223|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|Minimum Index Sum of Two Lists|2019.10.22|<font color=#00D700>Easy</font>|3
 222|205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)|Isomorphic Strings|2019.10.22|<font color=#00D700>Easy</font>|3
 221|349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|Intersection of Two Arrays|2019.10.22|<font color=#00D700>Easy</font>|3
-220|706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)|[Design HashMap]|2019.10.21|<font color=#00D700>Easy</font>|
-219|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|[Design HashSet]|2019.10.21|<font color=#00D700>Easy</font>|
+220|706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)|[Design HashMap](https://blog.csdn.net/qq_20304723/article/details/102997158)|2019.10.21|<font color=#00D700>Easy</font>|6
+219|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|[Design HashSet](https://blog.csdn.net/qq_20304723/article/details/102997158)|2019.10.21|<font color=#00D700>Easy</font>|6
 218|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|2019.10.20|<font color=#FFD700>Medium</font>|5
 217|203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|2019.10.20|<font color=#00D700>Easy</font>|3
 216|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[Design Linked List](https://blog.csdn.net/qq_20304723/article/details/102912622)|2019.10.20|<font color=#FFD700>Medium</font>|6

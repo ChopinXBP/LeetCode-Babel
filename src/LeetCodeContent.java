@@ -246,6 +246,8 @@ LeetCode
 249.PalindromePairs                                 2019.11.8   java
 250.ReverseVowelsOfAString                          2019.11.9   java
 251.SortCharactersByFrequency                       2019.11.9   java
+252.NumberOfBoomerangs                              2019.11.10  java
+253.FriendCircles                                   2019.11.10  java
 
 */
 
