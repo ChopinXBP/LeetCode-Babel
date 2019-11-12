@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-94 | 135 | 33 | 262
+94 | 135 | 34 | 263
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+263|887|[鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)|[Super Egg Drop]|2019.11.12|<font color=#D70000>Hard</font>|
 262|547|[朋友圈](https://leetcode-cn.com/problems/friend-circles/)|Friend Circles|2019.11.10|<font color=#FFD700>Medium</font>|5
 261|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)|Number of Boomerangs|2019.11.10|<font color=#00D700>Easy</font>|4
 260|18|[四数之和](https://leetcode-cn.com/problems/4sum/)|[4Sum](https://blog.csdn.net/qq_20304723/article/details/90933388)|2019.11.9|<font color=#FFD700>Medium</font>|6
@@ -71,7 +72,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 228|374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|Guess Number Higher or Lower|2019.10.26|<font color=#00D700>Easy</font>|5
 227|704|[二分查找](https://leetcode-cn.com/problems/binary-search/)|Binary Search|2019.10.26|<font color=#00D700>Easy</font>|5
 226|771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|Jewels and Stones|2019.10.26|<font color=#00D700>Easy</font>|3
-225|652|[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|[Find Duplicate Subtrees]|2019.10.24|<font color=#FFD700>Medium</font>|
+225|652|[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|[Find Duplicate Subtrees](https://blog.csdn.net/qq_20304723/article/details/103039551)|2019.10.24|<font color=#FFD700>Medium</font>|7
 224|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|Contains Duplicate II|2019.10.24|<font color=#00D700>Easy</font>|3
 223|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|Minimum Index Sum of Two Lists|2019.10.22|<font color=#00D700>Easy</font>|3
 222|205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)|Isomorphic Strings|2019.10.22|<font color=#00D700>Easy</font>|3

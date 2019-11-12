@@ -248,6 +248,7 @@ LeetCode
 251.SortCharactersByFrequency                       2019.11.9   java
 252.NumberOfBoomerangs                              2019.11.10  java
 253.FriendCircles                                   2019.11.10  java
+254.SuperEggDrop                                    2019.11.11  java
 
 */
 
