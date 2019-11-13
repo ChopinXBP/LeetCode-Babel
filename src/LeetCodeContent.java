@@ -249,6 +249,7 @@ LeetCode
 252.NumberOfBoomerangs                              2019.11.10  java
 253.FriendCircles                                   2019.11.10  java
 254.SuperEggDrop                                    2019.11.11  java
+255.NQueens                                         2019.11.13  java
 
 */
 
