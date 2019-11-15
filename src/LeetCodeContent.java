@@ -250,6 +250,8 @@ LeetCode
 253.FriendCircles                                   2019.11.10  java
 254.SuperEggDrop                                    2019.11.11  java
 255.NQueens                                         2019.11.13  java
+256.SudokuSolver                                    2019.11.14  java
+257.Combinations                                    2019.11.15  java
 
 */
 
