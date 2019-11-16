@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-94 | 136 | 37 | 267
+95 | 136 | 37 | 268
 </center>
 
 ---
@@ -34,6 +34,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+267|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
 267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations]|2019.11.15|<font color=#FFD700>Medium</font>|
 266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver]|2019.11.14|<font color=#D70000>Hard</font>|
 265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II]|2019.11.13|<font color=#D70000>Hard</font>|
