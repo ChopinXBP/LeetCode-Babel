@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-95 | 136 | 37 | 268
+96 | 138 | 37 | 271
 </center>
 
 ---
@@ -34,7 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
-267|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
+271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three]|2019.11.17|<font color=#FFD700>Medium</font>|
+270|1261|[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)|Find Elements in a Contaminated Binary Tree|2019.11.17|<font color=#FFD700>Medium</font>|5
+269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
+268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
 267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations]|2019.11.15|<font color=#FFD700>Medium</font>|
 266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver]|2019.11.14|<font color=#D70000>Hard</font>|
 265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II]|2019.11.13|<font color=#D70000>Hard</font>|
@@ -56,7 +59,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 249|590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|N-ary Tree Postorder Traversal|2019.11.4|<font color=#00D700>Easy</font>|3
 248|589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|N-ary Tree Preorder Traversal|2019.11.4|<font color=#00D700>Easy</font>|3
 247|110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)|Balanced Binary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
-246|220|[存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[Contains Duplicate III]|2019.11.3|<font color=#FFD700>Medium</font>|
+246|220|[存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[Contains Duplicate III](https://blog.csdn.net/qq_20304723/article/details/103109161)|2019.11.3|<font color=#FFD700>Medium</font>|9
 245|703|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|Kth Largest Element in a Stream|2019.11.3|<font color=#00D700>Easy</font>|4
 244|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|Insert into a Binary Search Tree|2019.11.1|<font color=#FFD700>Medium</font>|4
 243|450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|Delete Node in a BST|2019.11.1|<font color=#FFD700>Medium</font>|4

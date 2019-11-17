@@ -253,6 +253,9 @@ LeetCode
 256.SudokuSolver                                    2019.11.14  java
 257.Combinations                                    2019.11.15  java
 258.SameTree                                        2019.11.16  java
+259.Shift2DGrid                                     2019.11.17  java
+260.FindElementsInAContaminatedBinaryTree           2019.11.17  java
+261.GreatestSumDivisibleByThree                     2019.11.17  java
 
 */
 
