@@ -51,8 +51,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 257|80|[删除排序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|Remove Duplicates from Sorted Array II|2019.11.9|<font color=#FFD700>Medium</font>|3
 256|336|[回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|[Palindrome Pairs]|2019.11.8|<font color=#D70000>Hard</font>|
 255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array]|2019.11.7|<font color=#FFD700>Medium</font>|
-254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design]|2019.11.7|<font color=#FFD700>Medium</font>|
-253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words]|2019.11.6|<font color=#FFD700>Medium</font>|
+254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.7|<font color=#FFD700>Medium</font>|6
+253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.6|<font color=#FFD700>Medium</font>|6
 252|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Map Sum Pairs](https://blog.csdn.net/qq_20304723/article/details/103129248)|2019.11.5|<font color=#FFD700>Medium</font>|6
 251|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|Maximum Depth of N-ary Tree|2019.11.4|<font color=#00D700>Easy</font>|3
 250|429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|N-ary Tree Level Order Traversal|2019.11.4|<font color=#FFD700>Medium</font>|3
