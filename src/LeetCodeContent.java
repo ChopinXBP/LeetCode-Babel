@@ -256,6 +256,10 @@ LeetCode
 259.Shift2DGrid                                     2019.11.17  java
 260.FindElementsInAContaminatedBinaryTree           2019.11.17  java
 261.GreatestSumDivisibleByThree                     2019.11.17  java
+262.CombineTwoTables                                2019.11.20  sql
+263.ValidPhoneNumbers                               2019.11.20  shell
+264.SecondHighestSalary                             2019.11.21  sql
+265.PermutationInString                             2019.11.21  java
 
 */
 

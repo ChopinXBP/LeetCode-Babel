@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-96 | 138 | 37 | 271
+99 | 139 | 37 | 275
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+275|567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)|Permutation in String|2019.11.21|<font color=#FFD700>Medium</font>|6
+274|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[Second Highest Salary]|2019.11.21|<font color=#00D700>Easy</font>|
+273|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)|[Valid Phone Numbers]|2019.11.21|<font color=#00D700>Easy</font>|
+272|175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)|Combine Two Tables|2019.11.20|<font color=#00D700>Easy</font>|D
 271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three]|2019.11.17|<font color=#FFD700>Medium</font>|
 270|1261|[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)|Find Elements in a Contaminated Binary Tree|2019.11.17|<font color=#FFD700>Medium</font>|5
 269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
@@ -50,7 +54,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 258|345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|Sort Characters By Frequency|2019.11.9|<font color=#00D700>Easy</font>|3
 257|80|[删除排序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|Remove Duplicates from Sorted Array II|2019.11.9|<font color=#FFD700>Medium</font>|3
 256|336|[回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|[Palindrome Pairs]|2019.11.8|<font color=#D70000>Hard</font>|
-255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array]|2019.11.7|<font color=#FFD700>Medium</font>|
+255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array](https://blog.csdn.net/qq_20304723/article/details/103172142)|2019.11.7|<font color=#FFD700>Medium</font>|9
 254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.7|<font color=#FFD700>Medium</font>|6
 253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.6|<font color=#FFD700>Medium</font>|6
 252|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Map Sum Pairs](https://blog.csdn.net/qq_20304723/article/details/103129248)|2019.11.5|<font color=#FFD700>Medium</font>|6
