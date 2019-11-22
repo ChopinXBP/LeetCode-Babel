@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-99 | 139 | 37 | 275
+101 | 141 | 37 | 279
 </center>
 
 ---
@@ -34,6 +34,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+279|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[Restore IP Addresses]|2019.11.22|<font color=#FFD700>Medium</font>|
+278|71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|Simplify Path|2019.11.22|<font color=#FFD700>Medium</font>|5
+277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|Tenth Line|2019.11.22|<font color=#00D700>Easy</font>|S
+276|181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|Employees Earning More Than Their Managers|2019.11.22|<font color=#00D700>Easy</font>|D
 275|567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)|Permutation in String|2019.11.21|<font color=#FFD700>Medium</font>|6
 274|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[Second Highest Salary]|2019.11.21|<font color=#00D700>Easy</font>|
 273|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)|[Valid Phone Numbers]|2019.11.21|<font color=#00D700>Easy</font>|

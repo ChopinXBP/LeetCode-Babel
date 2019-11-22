@@ -260,6 +260,10 @@ LeetCode
 263.ValidPhoneNumbers                               2019.11.20  shell
 264.SecondHighestSalary                             2019.11.21  sql
 265.PermutationInString                             2019.11.21  java
+266.EmployeesEarningMoreThanTheirManagers           2019.11.22  sql
+267.TenthLine                                       2019.11.22  shell
+268.SimplifyPath                                    2019.11.22  java
+269.RestoreIPAddresses                              2019.11.22  java
 
 */
 
