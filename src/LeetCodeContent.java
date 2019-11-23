@@ -264,6 +264,8 @@ LeetCode
 267.TenthLine                                       2019.11.22  shell
 268.SimplifyPath                                    2019.11.22  java
 269.RestoreIPAddresses                              2019.11.22  java
+270.DuplicateEmails                                 2019.11.23  sql
+271.WordFrequency                                   2019.11.23  shell
 
 */
 

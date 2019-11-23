@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-101 | 141 | 37 | 279
+102 | 142 | 37 | 281
 </center>
 
 ---
@@ -34,6 +34,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+281|192|[统计词频](https://leetcode-cn.com/problems/word-frequency/)|[Word Frequency]|2019.11.23|<font color=#FFD700>Medium</font>|S
+280|182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[Duplicate Emails]|2019.11.23|<font color=#00D700>Easy</font>|
 279|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[Restore IP Addresses]|2019.11.22|<font color=#FFD700>Medium</font>|
 278|71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|Simplify Path|2019.11.22|<font color=#FFD700>Medium</font>|5
 277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|Tenth Line|2019.11.22|<font color=#00D700>Easy</font>|S
