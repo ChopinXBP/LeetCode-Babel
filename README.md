@@ -59,7 +59,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 259|451|[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|Sort Characters By Frequency|2019.11.9|<font color=#FFD700>Medium</font>|3
 258|345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|Sort Characters By Frequency|2019.11.9|<font color=#00D700>Easy</font>|3
 257|80|[删除排序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|Remove Duplicates from Sorted Array II|2019.11.9|<font color=#FFD700>Medium</font>|3
-256|336|[回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|[Palindrome Pairs]|2019.11.8|<font color=#D70000>Hard</font>|
+256|336|[回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|[Palindrome Pairs](https://blog.csdn.net/qq_20304723/article/details/103198153)|2019.11.8|<font color=#D70000>Hard</font>|9
 255|421|[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Maximum XOR of Two Numbers in an Array](https://blog.csdn.net/qq_20304723/article/details/103172142)|2019.11.7|<font color=#FFD700>Medium</font>|9
 254|211|[添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Add and Search Word - Data structure design](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.7|<font color=#FFD700>Medium</font>|6
 253|648|[单词替换](https://leetcode-cn.com/problems/replace-words/)|[Replace Words](https://blog.csdn.net/qq_20304723/article/details/103151046)|2019.11.6|<font color=#FFD700>Medium</font>|6
