@@ -24,7 +24,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-102 | 142 | 37 | 281
+104 | 145 | 37 | 286
 </center>
 
 ---
@@ -34,17 +34,22 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+286|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)|[Transpose File]|2019.11.24|<font color=#FFD700>Medium</font>|S
+285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order]|2019.11.24|<font color=#00D700>Easy</font>|
+284|1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)|[Search Suggestions System]|2019.11.24|<font color=#FFD700>Medium</font>|
+283|1267|[统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)|Count Servers that Communicate|2019.11.24|<font color=#FFD700>Medium</font>|3
+282|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)|Minimum Time Visiting All Points|2019.11.24|<font color=#00D700>Easy</font>|3
 281|192|[统计词频](https://leetcode-cn.com/problems/word-frequency/)|[Word Frequency]|2019.11.23|<font color=#FFD700>Medium</font>|S
 280|182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[Duplicate Emails]|2019.11.23|<font color=#00D700>Easy</font>|
 279|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[Restore IP Addresses]|2019.11.22|<font color=#FFD700>Medium</font>|
 278|71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|Simplify Path|2019.11.22|<font color=#FFD700>Medium</font>|5
-277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|Tenth Line|2019.11.22|<font color=#00D700>Easy</font>|S
+277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|[Tenth Line]|2019.11.22|<font color=#00D700>Easy</font>|S
 276|181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|Employees Earning More Than Their Managers|2019.11.22|<font color=#00D700>Easy</font>|D
 275|567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)|Permutation in String|2019.11.21|<font color=#FFD700>Medium</font>|6
 274|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[Second Highest Salary]|2019.11.21|<font color=#00D700>Easy</font>|
-273|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)|[Valid Phone Numbers]|2019.11.21|<font color=#00D700>Easy</font>|
+273|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)|[Valid Phone Numbers]|2019.11.21|<font color=#00D700>Easy</font>|S
 272|175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)|Combine Two Tables|2019.11.20|<font color=#00D700>Easy</font>|D
-271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three]|2019.11.17|<font color=#FFD700>Medium</font>|
+271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three](https://blog.csdn.net/qq_20304723/article/details/103224143)|2019.11.17|<font color=#FFD700>Medium</font>|7
 270|1261|[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)|Find Elements in a Contaminated Binary Tree|2019.11.17|<font color=#FFD700>Medium</font>|5
 269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
 268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3

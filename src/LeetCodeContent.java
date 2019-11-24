@@ -266,6 +266,11 @@ LeetCode
 269.RestoreIPAddresses                              2019.11.22  java
 270.DuplicateEmails                                 2019.11.23  sql
 271.WordFrequency                                   2019.11.23  shell
+272.MinimumTimeVisitingAllPoints                    2019.11.24  java
+273.CountServersThatCommunicate                     2019.11.24  java
+274.SearchSuggestionsSystem                         2019.11.24  java
+275.CustomersWhoNeverOrder                          2019.11.24  sql
+276.TransposeFile                                   2019.11.24  shell
 
 */
 
