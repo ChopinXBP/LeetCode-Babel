@@ -14,9 +14,11 @@
 
 下面每一道刷过的LeetCode题目附上了题号（ID列）、链接（Problem列）、官网难度评价（Difficulty列），对于已经更新的博文还会附上解题博文的链接（Note列）以及该题个人评分（Score列）。
 
-个人评分依据优化难度分（优化难度指的是写出考虑周全且复杂度降至最低的算法的难度，决定题目难度上限，评价基线为刷这道题的入门平均水平，满分10分，梯度为1分。
+1.个人评分依据优化难度分（优化难度指的是写出考虑周全且复杂度降至最低的算法的难度，决定题目难度上限，评价基线为刷这道题的入门平均水平，满分10分，梯度为1分。
 
-部分题目还未记录和评分，对于过于简单或方法重复的题目不再记录
+2.部分题目还未记录和评分，对于过于简单或方法重复的题目不再记录。
+
+3.Score列说明：D为数据库类型题，S为Shell类型题，C为多线程类型题。
 
 ---
 
@@ -24,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-110 | 147 | 37 | 294
+111 | 149 | 37 | 298
 </center>
 
 ---
@@ -34,6 +36,10 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
+297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary]|2019.11.29|<font color=#00D700>Easy</font>|
+296|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|Not Boring Movies|2019.11.29|<font color=#00D700>Easy</font>|3
+295|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)|[Permutation Sequence]|2019.11.29|<font color=#FFD700>Medium</font>|
 294|1115|[交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)|Print FooBar Alternately|2019.11.28|<font color=#FFD700>Medium</font>|C
 293|596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/)|Classes More Than 5 Students|2019.11.28|<font color=#00D700>Easy</font>|D
 292|595|[大的国家](https://leetcode-cn.com/problems/big-countries/)|Big Countries|2019.11.28|<font color=#00D700>Easy</font>|D
@@ -63,8 +69,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
 267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations]|2019.11.15|<font color=#FFD700>Medium</font>|
 266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver]|2019.11.14|<font color=#D70000>Hard</font>|
-265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II]|2019.11.13|<font color=#D70000>Hard</font>|
-264|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[N-Queens]|2019.11.13|<font color=#D70000>Hard</font>|
+265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
+264|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[N-Queens](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
 263|887|[鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)|[Super Egg Drop](https://blog.csdn.net/qq_20304723/article/details/103273178)|2019.11.12|<font color=#D70000>Hard</font>|10
 262|547|[朋友圈](https://leetcode-cn.com/problems/friend-circles/)|Friend Circles|2019.11.10|<font color=#FFD700>Medium</font>|5
 261|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)|Number of Boomerangs|2019.11.10|<font color=#00D700>Easy</font>|4
