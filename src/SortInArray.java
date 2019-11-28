@@ -295,6 +295,35 @@ public class SortInArray {
         }
     }
 
+    ///////////////////////////////////////////////////计数排序/////////////////////////////////////////////////////////
+
+    //计数排序：最坏复杂度o(n+k)，平均复杂度o(n+k)，空间复杂度o(k)，稳定（k为数据的取值范围）
+    //将所有元素的频次放入对应的桶中，再进行排序。计数排序是桶排序的一种特殊情况。
+    public int[] countingSort(int[] nums) {
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+        for (int num : nums) {
+            max = num > max ? num : max;
+            min = num < min ? num : min;
+        }
+
+        int[] buckets = new int[max - min + 1];
+        for (int i : nums) {
+            buckets[i - min] += 1;
+        }
+
+        int[] result = new int[nums.length];
+        int resultIdx = 0;
+
+        for (int i = 0; i < buckets.length; i++) {
+            while (buckets[i]-- != 0) {
+                result[resultIdx++] = i + min;
+            }
+        }
+        return result;
+    }
+
+
 }
 
 

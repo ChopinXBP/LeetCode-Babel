@@ -1,3 +1,5 @@
+package SQL;
+
 /**
  *
  * https://leetcode-cn.com/problems/second-highest-salary/
@@ -14,6 +16,6 @@ SELECT IFNULL(
     FROM Employee
     ORDER BY Salary DESC
     LIMIT 1, 1)
-, NULL) 'SecondHighestSalary';
+, NULL) 'SQL.SecondHighestSalary';
 
  */

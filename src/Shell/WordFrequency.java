@@ -1,3 +1,5 @@
+package Shell;
+
 /**
  *
  * Write a bash script to calculate the frequency of each word in a text file words.txt.

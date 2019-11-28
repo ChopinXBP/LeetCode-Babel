@@ -271,6 +271,14 @@ LeetCode
 274.SearchSuggestionsSystem                         2019.11.24  java
 275.CustomersWhoNeverOrder                          2019.11.24  sql
 276.TransposeFile                                   2019.11.24  shell
+277.DeleteDuplicateEmails                           2019.11.26  sql
+278.RisingTemperature                               2019.11.26  sql
+279.PrintInOrder                                    2019.11.26  JUC
+280.MaxAreaOfIsland                                 2019.11.28  java
+281.LongestContinuousIncreasingSubsequence          2019.11.28  java
+282.BigCountries                                    2019.11.28  java
+283.ClassesMoreThan5Students                        2019.11.28  java
+284.PrintFooBarAlternately                          2019.11.28  java
 
 */
 
