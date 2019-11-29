@@ -276,9 +276,13 @@ LeetCode
 279.PrintInOrder                                    2019.11.26  JUC
 280.MaxAreaOfIsland                                 2019.11.28  java
 281.LongestContinuousIncreasingSubsequence          2019.11.28  java
-282.BigCountries                                    2019.11.28  java
-283.ClassesMoreThan5Students                        2019.11.28  java
-284.PrintFooBarAlternately                          2019.11.28  java
+282.BigCountries                                    2019.11.28  sql
+283.ClassesMoreThan5Students                        2019.11.28  sql
+284.PrintFooBarAlternately                          2019.11.28  JUC
+285.PermutationSequence                             2019.11.29  java
+286.NotBoringMovies                                 2019.11.29  sql
+287.SwapSalary                                      2019.11.29  sql
+288.PrintZeroEvenOdd                                2019.11.29  JUC
 
 */
 
