@@ -283,6 +283,8 @@ LeetCode
 286.NotBoringMovies                                 2019.11.29  sql
 287.SwapSalary                                      2019.11.29  sql
 288.PrintZeroEvenOdd                                2019.11.29  JUC
+289.Triangle                                        2019.11.30  java
+290.ReformatDepartmentTable                         2019.11.30  sql
 
 */
 

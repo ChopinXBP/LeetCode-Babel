@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JUC/PrintInOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
@@ -10,6 +11,10 @@
       <change afterPath="$PROJECT_DIR$/src/SQL/ClassesMoreThan5Students.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SQL/DeleteDuplicateEmails.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SQL/RisingTemperature.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+>>>>>>> newpro
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CombineTwoTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SQL/CombineTwoTables.java" afterDir="false" />
@@ -40,8 +45,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
+<<<<<<< HEAD
               <first_editor relative-caret-position="330">
                 <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+=======
+              <first_editor relative-caret-position="528">
+                <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+>>>>>>> newpro
               </first_editor>
               <second_editor />
             </state>
@@ -51,12 +61,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="351">
               <caret line="280" column="26" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="26" />
+=======
+            <state relative-caret-position="286">
+              <caret line="286" column="67" lean-forward="true" selection-start-line="286" selection-start-column="67" selection-end-line="286" selection-end-column="67" />
+>>>>>>> newpro
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,6 +81,13 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+>>>>>>> newpro
             </state>
           </provider>
         </entry>
@@ -89,6 +112,9 @@
       <find>col</find>
       <find>j</find>
       <find>A</find>
+      <find>&quot;</find>
+      <find>as</find>
+      <find>)</find>
     </findStrings>
     <replaceStrings>
       <replace>size</replace>
@@ -100,6 +126,9 @@
       <replace>j</replace>
       <replace>idx</replace>
       <replace>nums</replace>
+      <replace>'</replace>
+      <replace>AS</replace>
+      <replace>(</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -109,6 +138,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -116,6 +150,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/KthLargestElementInAStream.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicateIII.java" />
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
@@ -124,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/MapSumPairs.java" />
         <option value="$PROJECT_DIR$/src/ReplaceWords.java" />
         <option value="$PROJECT_DIR$/src/AddAndSearchWord.java" />
+=======
+>>>>>>> newpro
         <option value="$PROJECT_DIR$/src/MaximumXOROfTwoNumbersInAnArray.java" />
         <option value="$PROJECT_DIR$/src/PalindromePairs.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java" />
@@ -165,8 +202,22 @@
         <option value="$PROJECT_DIR$/src/BigCountries.java" />
         <option value="$PROJECT_DIR$/src/SQL/BigCountries.java" />
         <option value="$PROJECT_DIR$/src/SQL/ClassesMoreThan5Students.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java" />
+=======
+        <option value="$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java" />
+        <option value="$PROJECT_DIR$/src/PermutationSequence.java" />
+        <option value="$PROJECT_DIR$/src/NotBoringMovies.java" />
+        <option value="$PROJECT_DIR$/src/SQL/NotBoringMovies.java" />
+        <option value="$PROJECT_DIR$/src/SQL/SwapSalary.java" />
+        <option value="$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/ReformatDepartmentTable.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
+        <option value="$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> newpro
       </list>
     </option>
   </component>
@@ -190,6 +241,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> newpro
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,6 +263,12 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JUC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SQL" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -292,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortList" />
         <item itemvalue="Application.Problem" />
         <item itemvalue="Application.MinimumWindowSubstring" />
-        <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.SortList" />
+        <item itemvalue="Application.GenerateParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +518,13 @@
       <workItem from="1574570267289" duration="6756000" />
       <workItem from="1574581347226" duration="25000" />
       <workItem from="1574742099038" duration="1463000" />
+<<<<<<< HEAD
       <workItem from="1574748819802" duration="19220000" />
+=======
+      <workItem from="1574748819802" duration="19834000" />
+      <workItem from="1574993468505" duration="11890000" />
+      <workItem from="1575114348649" duration="6264000" />
+>>>>>>> newpro
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -483,7 +551,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1363791000" />
+=======
+    <option name="totallyTimeSpent" value="1382575000" />
+>>>>>>> newpro
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,7 +570,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
+>>>>>>> newpro
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +582,11 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.31527627" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.31527627" />
+>>>>>>> newpro
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.2478355" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.29761904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -515,8 +595,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4717484" weight="0.23185265" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.23185265" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4706823" weight="0.23185265" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.23185265" />
+>>>>>>> newpro
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -539,6 +624,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/ContainsDuplicateIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -604,6 +690,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> newpro
     <entry file="file://$PROJECT_DIR$/src/MaximumXOROfTwoNumbersInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -946,6 +1034,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -954,6 +1043,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SQL/NotBoringMovies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SQL/SwapSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JUC/PrintInOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java">
+>>>>>>> newpro
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
           <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
@@ -963,6 +1099,40 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="286" column="67" lean-forward="true" selection-start-line="286" selection-start-column="67" selection-end-line="286" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="528">
+            <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> newpro
   </component>
   <component name="masterDetails">
     <states>

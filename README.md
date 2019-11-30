@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-111 | 149 | 37 | 298
+112 | 150 | 37 | 300
 </center>
 
 ---
@@ -36,6 +36,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+300|1179|[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[Reformat Department Table]|2019.11.30|<font color=#00D700>Easy</font>|
+299|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[Triangle]|2019.11.30|<font color=#FFD700>Medium</font>|
 298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
 297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary]|2019.11.29|<font color=#00D700>Easy</font>|
 296|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|Not Boring Movies|2019.11.29|<font color=#00D700>Easy</font>|3
@@ -68,7 +70,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
 268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
 267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations]|2019.11.15|<font color=#FFD700>Medium</font>|
-266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver]|2019.11.14|<font color=#D70000>Hard</font>|
+266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver](https://blog.csdn.net/qq_20304723/article/details/103328260)|2019.11.14|<font color=#D70000>Hard</font>|7
 265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
 264|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[N-Queens](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
 263|887|[鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)|[Super Egg Drop](https://blog.csdn.net/qq_20304723/article/details/103273178)|2019.11.12|<font color=#D70000>Hard</font>|10
