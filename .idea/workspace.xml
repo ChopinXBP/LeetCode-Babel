@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PermutationSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SQL/NotBoringMovies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SQL/SwapSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCodeContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeContent.java" afterDir="false" />
@@ -26,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="572">
-                <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <first_editor relative-caret-position="528">
+                <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,32 +35,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="284" column="20" selection-start-line="284" selection-start-column="4" selection-end-line="284" selection-end-column="20" />
+            <state relative-caret-position="286">
+              <caret line="286" column="67" lean-forward="true" selection-start-line="286" selection-start-column="67" selection-end-line="286" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java">
+        <entry file="file://$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JUC/PrintInOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -87,6 +70,9 @@
       <find>col</find>
       <find>j</find>
       <find>A</find>
+      <find>&quot;</find>
+      <find>as</find>
+      <find>)</find>
     </findStrings>
     <replaceStrings>
       <replace>size</replace>
@@ -98,6 +84,9 @@
       <replace>j</replace>
       <replace>idx</replace>
       <replace>nums</replace>
+      <replace>'</replace>
+      <replace>AS</replace>
+      <replace>(</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +96,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -114,9 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MapSumPairs.java" />
-        <option value="$PROJECT_DIR$/src/ReplaceWords.java" />
-        <option value="$PROJECT_DIR$/src/AddAndSearchWord.java" />
         <option value="$PROJECT_DIR$/src/MaximumXOROfTwoNumbersInAnArray.java" />
         <option value="$PROJECT_DIR$/src/PalindromePairs.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java" />
@@ -162,8 +153,11 @@
         <option value="$PROJECT_DIR$/src/NotBoringMovies.java" />
         <option value="$PROJECT_DIR$/src/SQL/NotBoringMovies.java" />
         <option value="$PROJECT_DIR$/src/SQL/SwapSalary.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/ReformatDepartmentTable.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
+        <option value="$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -188,8 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,6 +208,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JUC" type="462c0819:PsiDirectoryNode" />
               <item name="PrintInOrder.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SQL" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortList" />
         <item itemvalue="Application.Problem" />
         <item itemvalue="Application.MinimumWindowSubstring" />
-        <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.SortList" />
+        <item itemvalue="Application.GenerateParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -457,6 +457,7 @@
       <workItem from="1574742099038" duration="1463000" />
       <workItem from="1574748819802" duration="19834000" />
       <workItem from="1574993468505" duration="11890000" />
+      <workItem from="1575114348649" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1569565132009</created>
@@ -483,7 +484,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1376295000" />
+    <option name="totallyTimeSpent" value="1382575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,7 +499,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +507,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4968017" weight="0.31527627" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.31527627" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.2478355" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.29761904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -516,7 +517,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4706823" weight="0.23185265" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.23185265" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.23185265" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -539,36 +540,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReplaceWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddAndSearchWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximumXOROfTwoNumbersInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -925,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="284" column="20" selection-start-line="284" selection-start-column="4" selection-end-line="284" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JUC/PrintInOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="639">
@@ -952,11 +916,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="286" column="67" lean-forward="true" selection-start-line="286" selection-start-column="67" selection-end-line="286" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <first_editor relative-caret-position="528">
+            <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
           </first_editor>
           <second_editor />
         </state>
