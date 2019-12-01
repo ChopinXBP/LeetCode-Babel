@@ -71,8 +71,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three](https://blog.csdn.net/qq_20304723/article/details/103224143)|2019.11.17|<font color=#FFD700>Medium</font>|7
 270|1261|[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)|Find Elements in a Contaminated Binary Tree|2019.11.17|<font color=#FFD700>Medium</font>|5
 269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
-268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Same Tree]|2019.11.16|<font color=#00D700>Easy</font>|3
-267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations]|2019.11.15|<font color=#FFD700>Medium</font>|
+268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|Same Tree|2019.11.16|<font color=#00D700>Easy</font>|3
+267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations](https://blog.csdn.net/qq_20304723/article/details/103333845)|2019.11.15|<font color=#FFD700>Medium</font>|8
 266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver](https://blog.csdn.net/qq_20304723/article/details/103328260)|2019.11.14|<font color=#D70000>Hard</font>|7
 265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
 264|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[N-Queens](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
