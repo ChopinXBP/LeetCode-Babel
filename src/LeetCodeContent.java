@@ -285,6 +285,9 @@ LeetCode
 288.PrintZeroEvenOdd                                2019.11.29  JUC
 289.Triangle                                        2019.11.30  java
 290.ReformatDepartmentTable                         2019.11.30  sql
+291.FindWinnerOnATicTacToeGame                      2019.12.1   java
+292.NumberOfBurgersWithNoWasteOfIngredients         2019.12.1   java
+293.CountSquareSubmatricesWithAllOnes               2019.12.1   java
 
 */
 

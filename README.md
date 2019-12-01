@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-112 | 150 | 37 | 300
+113 | 152 | 37 | 303
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+303|1277|[统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones]|2019.12.1|<font color=#FFD700>Medium</font>|
+302|1276|[不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|Number of Burgers with No Waste of Ingredients|2019.12.1|<font color=#FFD700>Medium</font>|3
+301|1275|[找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/)|Find Winner on a Tic Tac Toe Game|2019.12.1|<font color=#00D700>Easy</font>|3
 300|1179|[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[Reformat Department Table]|2019.11.30|<font color=#00D700>Easy</font>|
 299|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[Triangle]|2019.11.30|<font color=#FFD700>Medium</font>|
 298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
