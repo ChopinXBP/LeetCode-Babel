@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9502f40f-d8f3-4bfd-b9fb-9c365ce9e2ff" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/JUC/PrintFooBarAlternately.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JUC/PrintInOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
@@ -28,6 +29,10 @@
       <change beforePath="$PROJECT_DIR$/src/TransposeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shell/TransposeFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ValidPhoneNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shell/ValidPhoneNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WordFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shell/WordFrequency.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> newpro
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +51,16 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <first_editor relative-caret-position="330">
                 <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
 =======
               <first_editor relative-caret-position="528">
                 <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+>>>>>>> newpro
+=======
+              <first_editor relative-caret-position="396">
+                <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
 >>>>>>> newpro
               </first_editor>
               <second_editor />
@@ -61,6 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="351">
               <caret line="280" column="26" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="26" />
@@ -87,6 +98,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+>>>>>>> newpro
+=======
+            <state relative-caret-position="352">
+              <caret line="289" column="37" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="37" />
 >>>>>>> newpro
             </state>
           </provider>
@@ -151,6 +166,7 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/KthLargestElementInAStream.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicateIII.java" />
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
@@ -164,6 +180,8 @@
         <option value="$PROJECT_DIR$/src/MaximumXOROfTwoNumbersInAnArray.java" />
         <option value="$PROJECT_DIR$/src/PalindromePairs.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java" />
+=======
+>>>>>>> newpro
         <option value="$PROJECT_DIR$/src/ReverseVowelsOfAString.java" />
         <option value="$PROJECT_DIR$/src/SortCharactersByFrequency.java" />
         <option value="$PROJECT_DIR$/src/ThreeSum.java" />
@@ -214,8 +232,11 @@
         <option value="$PROJECT_DIR$/src/JUC/PrintZeroEvenOdd.java" />
         <option value="$PROJECT_DIR$/src/Triangle.java" />
         <option value="$PROJECT_DIR$/src/ReformatDepartmentTable.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
         <option value="$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java" />
+        <option value="$PROJECT_DIR$/src/FindWinnerOnATicTacToeGame.java" />
+        <option value="$PROJECT_DIR$/src/NumberOfBurgersWithNoWasteOfIngredients.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeContent.java" />
+        <option value="$PROJECT_DIR$/src/CountSquareSubmatricesWithAllOnes.java" />
         <option value="$PROJECT_DIR$/README.md" />
 >>>>>>> newpro
       </list>
@@ -227,9 +248,14 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-138" />
+>>>>>>> newpro
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -258,6 +284,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
@@ -276,6 +303,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SQL" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> newpro
           </expand>
           <select />
         </subPane>
@@ -289,7 +318,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563537249155" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaUtilConcurrent" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examinations" />
+>>>>>>> newpro
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -552,9 +585,13 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1363791000" />
 =======
     <option name="totallyTimeSpent" value="1382575000" />
+>>>>>>> newpro
+=======
+    <option name="totallyTimeSpent" value="1385759000" />
 >>>>>>> newpro
   </component>
   <component name="TodoView">
@@ -571,9 +608,13 @@
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
+>>>>>>> newpro
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
 >>>>>>> newpro
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -600,7 +641,11 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.23185265" />
 =======
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4706823" weight="0.23185265" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.23185265" />
+>>>>>>> newpro
+=======
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5298507" side_tool="true" visible="true" weight="0.23185265" />
 >>>>>>> newpro
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
@@ -624,6 +669,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/ContainsDuplicateIII.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -717,6 +763,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> newpro
     <entry file="file://$PROJECT_DIR$/src/ReverseVowelsOfAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -1110,23 +1158,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SQL/ReformatDepartmentTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        <state relative-caret-position="352">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberOfBurgersWithNoWasteOfIngredients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindWinnerOnATicTacToeGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountSquareSubmatricesWithAllOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="286" column="67" lean-forward="true" selection-start-line="286" selection-start-column="67" selection-end-line="286" selection-end-column="67" />
+        <state relative-caret-position="352">
+          <caret line="289" column="37" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+          <first_editor relative-caret-position="396">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
         </state>
