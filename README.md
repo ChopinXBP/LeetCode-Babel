@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-113 | 152 | 37 | 303
+113 | 154 | 38 | 306
 </center>
 
 ---
@@ -36,11 +36,14 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+306|1117|[H2O 生成](https://leetcode-cn.com/problems/building-h2o/)|[Building H2O]|2019.12.2|<font color=#FFD700>Medium</font>|
+305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary]|2019.12.2|<font color=#FFD700>Medium</font>|
+304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes]|2019.12.2|<font color=#D70000>Hard</font>|
 303|1277|[统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones]|2019.12.1|<font color=#FFD700>Medium</font>|
 302|1276|[不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|Number of Burgers with No Waste of Ingredients|2019.12.1|<font color=#FFD700>Medium</font>|3
 301|1275|[找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/)|Find Winner on a Tic Tac Toe Game|2019.12.1|<font color=#00D700>Easy</font>|3
 300|1179|[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[Reformat Department Table]|2019.11.30|<font color=#00D700>Easy</font>|
-299|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[Triangle]|2019.11.30|<font color=#FFD700>Medium</font>|
+299|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[Problems.Triangle]|2019.11.30|<font color=#FFD700>Medium</font>|
 298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
 297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary]|2019.11.29|<font color=#00D700>Easy</font>|
 296|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|Not Boring Movies|2019.11.29|<font color=#00D700>Easy</font>|3
@@ -72,7 +75,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 270|1261|[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)|Find Elements in a Contaminated Binary Tree|2019.11.17|<font color=#FFD700>Medium</font>|5
 269|1260|[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/)|Shift 2D Grid|2019.11.17|<font color=#00D700>Easy</font>|4
 268|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|Same Tree|2019.11.16|<font color=#00D700>Easy</font>|3
-267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Combinations](https://blog.csdn.net/qq_20304723/article/details/103333845)|2019.11.15|<font color=#FFD700>Medium</font>|8
+267|77|[组合](https://leetcode-cn.com/problems/combinations/)|[Problems.Combinations](https://blog.csdn.net/qq_20304723/article/details/103333845)|2019.11.15|<font color=#FFD700>Medium</font>|8
 266|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)|[Sudoku Solver](https://blog.csdn.net/qq_20304723/article/details/103328260)|2019.11.14|<font color=#D70000>Hard</font>|7
 265|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens/)|[N-Queens II](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
 264|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[N-Queens](https://blog.csdn.net/qq_20304723/article/details/103315256)|2019.11.13|<font color=#D70000>Hard</font>|7
@@ -226,7 +229,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 116|138|[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[Copy List with Random Pointer](https://blog.csdn.net/qq_20304723/article/details/99678514)|2019.7.23|<font color=#FFD700>Medium</font>|6
 115|779|[第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)|[K-th Symbol in Grammar](https://blog.csdn.net/qq_20304723/article/details/99617650)|2019.7.23|<font color=#FFD700>Medium</font>|7
 114|509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|Fibonacci Number|2019.7.22|<font color=#00D700>Easy</font>|3
-113|119|[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|Pascal's Triangle II|2019.7.22|<font color=#00D700>Easy</font>|3
+113|119|[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|Pascal's Problems.Triangle II|2019.7.22|<font color=#00D700>Easy</font>|3
 112|24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|Swap Nodes in Pairs|2019.7.22|<font color=#FFD700>Medium</font>|3
 111|134|[加油站](https://leetcode-cn.com/problems/gas-station/solution/)|[Gas Station](https://blog.csdn.net/qq_20304723/article/details/99415082)|2019.7.22|<font color=#FFD700>Medium</font>|6
 110|131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)|[Palindrome Partitioning](https://blog.csdn.net/qq_20304723/article/details/99344042)|2019.7.19|<font color=#FFD700>Medium</font>|8
@@ -234,7 +237,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 108|128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](https://blog.csdn.net/qq_20304723/article/details/99116770)|2019.6.19|<font color=#D70000>Hard</font>|7
 107|127|[单词接龙](https://leetcode-cn.com/problems/word-ladder/)|[Word Ladder](https://blog.csdn.net/qq_20304723/article/details/98946019)|2019.6.18|<font color=#FFD700>Medium</font>|7
 106|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Valid Palindrome|2019.6.17|<font color=#00D700>Easy</font>|3
-105|118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|Pascal's Triangle|2019.6.16|<font color=#00D700>Easy</font>|3
+105|118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|Pascal's Problems.Triangle|2019.6.16|<font color=#00D700>Easy</font>|3
 104|116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|Populating Next Right Pointers in Each Node|2019.6.14|<font color=#FFD700>Medium</font>|5
 103|912|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[Sort an Array](https://blog.csdn.net/qq_20304723/article/details/98849305)|2019.6.9|<font color=#FFD700>Medium</font>|7
 102|147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)|[Insertion Sort List](https://blog.csdn.net/qq_20304723/article/details/89365823)|2019.6.8|<font color=#FFD700>Medium</font>|6
@@ -259,7 +262,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 83|66|[加一](https://leetcode-cn.com/problems/plus-one/)|Plus One|2019.5.24|<font color=#00D700>Easy</font>|3
 82|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals/)|[Merge Intervals](https://blog.csdn.net/qq_20304723/article/details/90707868)|2019.5.24|<font color=#FFD700>Medium</font>|6
 81|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|[Jump Game](https://blog.csdn.net/qq_20304723/article/details/90649243)|2019.5.20|<font color=#FFD700>Medium</font>|6
-80|50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[Pow(x, n)](https://blog.csdn.net/qq_20304723/article/details/90578985)|2019.5.13|<font color=#FFD700>Medium</font>|5
+80|50|[Problems.Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[Problems.Pow(x, n)](https://blog.csdn.net/qq_20304723/article/details/90578985)|2019.5.13|<font color=#FFD700>Medium</font>|5
 79|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/comments/)|[Group Anagrams](https://blog.csdn.net/qq_20304723/article/details/90488911)|2019.5.13|<font color=#FFD700>Medium</font>|5
 78|48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|Rotate Image|2019.5.8|<font color=#FFD700>Medium</font>|3
 77|44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)|[Wildcard Matching](https://blog.csdn.net/qq_20304723/article/details/90181449)|2019.5.6|<font color=#D70000>Hard</font>|10
@@ -272,7 +275,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 70|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|Implement strStr()|2019.4.25|<font color=#00D700>Easy</font>|3
 69|20|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/submissions/)|[Generate Parentheses](https://blog.csdn.net/qq_20304723/article/details/89498677)|2019.4.24|<font color=#FFD700>Medium</font>|6
 68|19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|2019.4.24|<font color=#FFD700>Medium</font>|3
-67|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/comments/)|Letter Combinations of a Phone Number|2019.4.24|<font color=#FFD700>Medium</font>|3
+67|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/comments/)|Letter Problems.Combinations of a Phone Number|2019.4.24|<font color=#FFD700>Medium</font>|3
 66|13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|Roman to Integer|2019.4.23| <font color=#00D700>Easy</font>|3
 65|12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)|Integer to Roman|2019.4.23|<font color=#FFD700>Medium</font>|3
 64|10|[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/submissions/)|[Regular Expression Matching](https://blog.csdn.net/qq_20304723/article/details/89418631)|2019.4.19|<font color=#D70000>Hard</font>|10
@@ -310,14 +313,14 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 32|89|[格雷编码](https://leetcode-cn.com/problems/gray-code/)|[Gray Code](https://blog.csdn.net/qq_20304723/article/details/96488460)|2019.4.1|<font color=#FFD700>Medium</font>|6
 31|88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|Merge Sorted Array|2019.3.23|<font color=#00D700>Easy</font>|3
 30|787|[K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|[Cheapest Flights Within K Stops](https://blog.csdn.net/qq_20304723/article/details/96466146)|2019.3.15|<font color=#FFD700>Medium</font>|9
-29|78|[子集](https://leetcode-cn.com/problems/subsets/)|[Subsets](https://blog.csdn.net/qq_20304723/article/details/96144682)|2019.3.14|<font color=#FFD700>Medium</font>|6
+29|78|[子集](https://leetcode-cn.com/problems/subsets/)|[Problems.Subsets](https://blog.csdn.net/qq_20304723/article/details/96144682)|2019.3.14|<font color=#FFD700>Medium</font>|6
 28|70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[Climbing Stairs](https://blog.csdn.net/qq_20304723/article/details/96144682)|2019.3.13|<font color=#00D700>Easy</font>|5
 27|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[Unique Paths]|2019.3.12|<font color=#FFD700>Medium</font>|3
 26|61|[旋转链表](https://leetcode-cn.com/problems/rotate-list/)|[Rotate List](https://blog.csdn.net/qq_20304723/article/details/92790483)|2019.3.8|<font color=#FFD700>Medium</font>|5
 25|59|[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|Spiral Matrix II|2019.3.7|<font color=#FFD700>Medium</font>|3
 24|54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)|Spiral Matrix|2019.3.6|<font color=#FFD700>Medium</font>|3
 23|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Maximum Subarray](https://blog.csdn.net/qq_20304723/article/details/92712139)|2019.3.5|<font color=#00D700>Easy</font>|6
-22|46|[全排列](https://leetcode-cn.com/problems/permutations/)|[Permutations](https://blog.csdn.net/qq_20304723/article/details/92404626)|2019.3.4|<font color=#FFD700>Medium</font>|6
+22|46|[全排列](https://leetcode-cn.com/problems/permutations/)|[Problems.Permutations](https://blog.csdn.net/qq_20304723/article/details/92404626)|2019.3.4|<font color=#FFD700>Medium</font>|6
 21|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)|[Multiply Strings](https://blog.csdn.net/qq_20304723/article/details/89194884)|2019.3.3|<font color=#FFD700>Medium</font>|5
 20|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array](https://blog.csdn.net/qq_20304723/article/details/92077409)|2019.3.2|<font color=#FFD700>Medium</font>|5
 19|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|Remove Duplicates from Sorted Array|2019.3.1|<font color=#00D700>Easy</font>|3
@@ -326,7 +329,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 16|20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|Valid Parentheses|2019.2.26|<font color=#00D700>Easy</font>|3
 15|16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[3Sum Closest](https://blog.csdn.net/qq_20304723/article/details/90933388)|2019.2.25|<font color=#FFD700>Medium</font>|6
 14|15|[三数之和](https://leetcode-cn.com/problems/3sum/)|[3Sum](https://blog.csdn.net/qq_20304723/article/details/90933388)|2019.2.24|<font color=#FFD700>Medium</font>|6
-13|208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](https://blog.csdn.net/qq_20304723/article/details/89789005)|2019.2.24|<font color=#FFD700>Medium</font>|6
+13|208|[实现 Problems.Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|[Implement Problems.Trie (Prefix Tree)](https://blog.csdn.net/qq_20304723/article/details/89789005)|2019.2.24|<font color=#FFD700>Medium</font>|6
 12|14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[Longest Common Prefix](https://blog.csdn.net/qq_20304723/article/details/89840625)|2019.2.23|<font color=#00D700>Easy</font>|5
 11|11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[Container With Most Water](https://blog.csdn.net/qq_20304723/article/details/89473346)|2019.2.22|<font color=#FFD700>Medium</font>|5
 10|9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[Palindrome Number](https://blog.csdn.net/qq_20304723/article/details/89338543)|2019.2.21|<font color=#00D700>Easy</font>|4

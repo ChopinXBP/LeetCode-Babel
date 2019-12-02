@@ -288,6 +288,9 @@ LeetCode
 291.FindWinnerOnATicTacToeGame                      2019.12.1   java
 292.NumberOfBurgersWithNoWasteOfIngredients         2019.12.1   java
 293.CountSquareSubmatricesWithAllOnes               2019.12.1   java
+294.RussianDollEnvelopes                            2019.11.2   java
+295.NthHighestSalary                                2019.12.2   sql
+296.BuildingH2O                                     2019.12.2   JUC
 
 */
 
