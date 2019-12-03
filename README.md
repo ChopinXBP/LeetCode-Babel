@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-113 | 154 | 38 | 306
+114 | 155 | 39 | 309
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+309|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Search Insert Position|2019.12.3|<font color=#00D700>Easy</font>|4
+308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores]|2019.12.3|<font color=#FFD700>Medium</font>|
+307|432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)|[All O`one Data Structure]|2019.12.3|<font color=#D70000>Hard</font>|
 306|1117|[H2O 生成](https://leetcode-cn.com/problems/building-h2o/)|[Building H2O]|2019.12.2|<font color=#FFD700>Medium</font>|
 305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary]|2019.12.2|<font color=#FFD700>Medium</font>|
 304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes]|2019.12.2|<font color=#D70000>Hard</font>|
@@ -68,7 +71,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|[Tenth Line](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.22|<font color=#00D700>Easy</font>|S
 276|181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|Employees Earning More Than Their Managers|2019.11.22|<font color=#00D700>Easy</font>|D
 275|567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)|Permutation in String|2019.11.21|<font color=#FFD700>Medium</font>|6
-274|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[Second Highest Salary]|2019.11.21|<font color=#00D700>Easy</font>|
+274|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[Second Highest Salary](https://blog.csdn.net/qq_20304723/article/details/103375533)|2019.11.21|<font color=#00D700>Easy</font>|D
 273|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)|[Valid Phone Numbers](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.21|<font color=#00D700>Easy</font>|S
 272|175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)|Combine Two Tables|2019.11.20|<font color=#00D700>Easy</font>|D
 271|1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[Greatest Sum Divisible by Three](https://blog.csdn.net/qq_20304723/article/details/103224143)|2019.11.17|<font color=#FFD700>Medium</font>|7

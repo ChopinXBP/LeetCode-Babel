@@ -291,6 +291,9 @@ LeetCode
 294.RussianDollEnvelopes                            2019.11.2   java
 295.NthHighestSalary                                2019.12.2   sql
 296.BuildingH2O                                     2019.12.2   JUC
+297.AllOoneDataStructure                            2019.12.3   java
+298.RankScores                                      2019.12.3   sql
+299.SearchInsertPosition                            2019.12.3   java
 
 
 */
