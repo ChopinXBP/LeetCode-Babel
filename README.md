@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-114 | 155 | 39 | 309
+114 | 158 | 39 | 312
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+312|1195|[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)|[Fizz Buzz Multithreaded]|2019.12.4|<font color=#FFD700>Medium</font>|
+311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers]|2019.12.4|<font color=#FFD700>Medium</font>|
+310|393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)|UTF-8 Validation|2019.12.4|<font color=#FFD700>Medium</font>|4
 309|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Search Insert Position|2019.12.3|<font color=#00D700>Easy</font>|4
 308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores]|2019.12.3|<font color=#FFD700>Medium</font>|
 307|432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)|[All O`one Data Structure]|2019.12.3|<font color=#D70000>Hard</font>|

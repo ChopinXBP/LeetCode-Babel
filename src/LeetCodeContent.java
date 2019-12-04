@@ -294,6 +294,9 @@ LeetCode
 297.AllOoneDataStructure                            2019.12.3   java
 298.RankScores                                      2019.12.3   sql
 299.SearchInsertPosition                            2019.12.3   java
+300.UTF8Validation                                  2019.12.4   java
+301.ConsecutiveNumbers                              2019.12.4   java
+302.FizzBuzzMultithreaded                           2019.12.4   JUC
 
 
 */
