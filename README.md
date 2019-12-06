@@ -69,7 +69,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 282|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)|Minimum Time Visiting All Points|2019.11.24|<font color=#00D700>Easy</font>|3
 281|192|[统计词频](https://leetcode-cn.com/problems/word-frequency/)|[Word Frequency](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.23|<font color=#FFD700>Medium</font>|S
 280|182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[Duplicate Emails]|2019.11.23|<font color=#00D700>Easy</font>|
-279|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[Restore IP Addresses]|2019.11.22|<font color=#FFD700>Medium</font>|
+279|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[Restore IP Addresses](https://blog.csdn.net/qq_20304723/article/details/103429038)|2019.11.22|<font color=#FFD700>Medium</font>|7
 278|71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|Simplify Path|2019.11.22|<font color=#FFD700>Medium</font>|5
 277|195|[第十行](https://leetcode-cn.com/problems/tenth-line/)|[Tenth Line](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.22|<font color=#00D700>Easy</font>|S
 276|181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|Employees Earning More Than Their Managers|2019.11.22|<font color=#00D700>Easy</font>|D
