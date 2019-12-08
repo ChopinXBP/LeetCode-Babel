@@ -297,7 +297,9 @@ LeetCode
 300.UTF8Validation                                  2019.12.4   java
 301.ConsecutiveNumbers                              2019.12.4   java
 302.FizzBuzzMultithreaded                           2019.12.4   JUC
-
+303.SubtractTheProductAndSumOfDigitsOfAnInteger     2019.12.8   java
+304.GroupThePeopleGivenTheGroupSizeTheyBelongTo     2019.12.8   java
+305.FindTheSmallestDivisorGivenAThreshold           2019.12.8   java
 
 */
 
@@ -332,4 +334,7 @@ public class LeetCodeContent {
             next = n;
         }
     }
+
+    double a = 'a';
+    char b = 1;
 }
