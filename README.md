@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-114 | 158 | 39 | 312
+115 | 160 | 39 | 315
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+315|1283|[使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)|Find the Smallest Divisor Given a Threshold|2019.12.8|<font color=#FFD700>Medium</font>|5
+314|1282|[用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Group the People Given the Group Size They Belong To|2019.12.8|<font color=#FFD700>Medium</font>|3
+313|1281|[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Subtract the Product and Sum of Digits of an Integer|2019.12.8|<font color=#00D700>Easy</font>|3
 312|1195|[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)|[Fizz Buzz Multithreaded]|2019.12.4|<font color=#FFD700>Medium</font>|
 311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers]|2019.12.4|<font color=#FFD700>Medium</font>|
 310|393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)|UTF-8 Validation|2019.12.4|<font color=#FFD700>Medium</font>|4
