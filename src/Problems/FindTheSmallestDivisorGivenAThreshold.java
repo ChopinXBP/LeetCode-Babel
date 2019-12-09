@@ -36,7 +36,8 @@ public class FindTheSmallestDivisorGivenAThreshold {
     private int Solution(int[] nums, int core){
         int result = 0;
         for(int num : nums) {
-            result += num / core + (num % core == 0 ? 0 : 1);
+            //result += num / core + (num % core == 0 ? 0 : 1);
+            result += (num + core - 1) / core;
         }
         return result;
     }

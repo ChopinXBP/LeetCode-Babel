@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-115 | 160 | 39 | 315
+115 | 162 | 39 | 317
 </center>
 
 ---
@@ -36,6 +36,8 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+317|1226|[哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)|[The Dining Philosophers]|2019.12.9|<font color=#FFD700>Medium</font>|
+316|184|[部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/)|[Department Highest Salary]|2019.12.9|<font color=#FFD700>Medium</font>|
 315|1283|[使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)|Find the Smallest Divisor Given a Threshold|2019.12.8|<font color=#FFD700>Medium</font>|5
 314|1282|[用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Group the People Given the Group Size They Belong To|2019.12.8|<font color=#FFD700>Medium</font>|3
 313|1281|[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Subtract the Product and Sum of Digits of an Integer|2019.12.8|<font color=#00D700>Easy</font>|3
@@ -67,7 +69,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 287|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[Delete Duplicate Emails]|2019.11.26|<font color=#00D700>Easy</font>|
 286|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)|[Transpose File](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.24|<font color=#FFD700>Medium</font>|S
 285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order]|2019.11.24|<font color=#00D700>Easy</font>|
-284|1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)|[Search Suggestions System]|2019.11.24|<font color=#FFD700>Medium</font>|
+284|1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)|[Search Suggestions System](https://blog.csdn.net/qq_20304723/article/details/103464748)|2019.11.24|<font color=#FFD700>Medium</font>|7
 283|1267|[统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)|Count Servers that Communicate|2019.11.24|<font color=#FFD700>Medium</font>|3
 282|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)|Minimum Time Visiting All Points|2019.11.24|<font color=#00D700>Easy</font>|3
 281|192|[统计词频](https://leetcode-cn.com/problems/word-frequency/)|[Word Frequency](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.23|<font color=#FFD700>Medium</font>|S

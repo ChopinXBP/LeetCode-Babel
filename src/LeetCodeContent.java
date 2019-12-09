@@ -300,6 +300,8 @@ LeetCode
 303.SubtractTheProductAndSumOfDigitsOfAnInteger     2019.12.8   java
 304.GroupThePeopleGivenTheGroupSizeTheyBelongTo     2019.12.8   java
 305.FindTheSmallestDivisorGivenAThreshold           2019.12.8   java
+306.DepartmentHighestSalary                         2019.12.9   sql
+307.TheDiningPhilosophers                           2019.12.9   JUC
 
 */
 
