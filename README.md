@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-115 | 162 | 39 | 317
+119 | 165 | 39 | 323
 </center>
 
 ---
@@ -36,6 +36,12 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+329|168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[Excel Sheet Column Title]|2019.12.10|<font color=#00D700>Easy</font>|
+322|107|[二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|Binary Tree Level Order Traversal II|2019.12.10|<font color=#00D700>Easy</font>|3
+321|82|[删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|Remove Duplicates from Sorted List II|2019.12.10|<font color=#FFD700>Medium</font>|3
+320|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|Remove Duplicates from Sorted List|2019.12.10|<font color=#00D700>Easy</font>|3
+319|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|Length of Last Word|2019.12.10|<font color=#00D700>Easy</font>|3
+318|626|[换座位](https://leetcode-cn.com/problems/exchange-seats/)|[Exchange Seats]|2019.12.10|<font color=#FFD700>Medium</font>|
 317|1226|[哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)|[The Dining Philosophers]|2019.12.9|<font color=#FFD700>Medium</font>|
 316|184|[部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/)|[Department Highest Salary]|2019.12.9|<font color=#FFD700>Medium</font>|
 315|1283|[使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)|Find the Smallest Divisor Given a Threshold|2019.12.8|<font color=#FFD700>Medium</font>|5
@@ -68,7 +74,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 288|197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)|[Rising Temperature]|2019.11.26|<font color=#00D700>Easy</font>|
 287|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[Delete Duplicate Emails]|2019.11.26|<font color=#00D700>Easy</font>|
 286|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)|[Transpose File](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.24|<font color=#FFD700>Medium</font>|S
-285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order]|2019.11.24|<font color=#00D700>Easy</font>|
+285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order](https://blog.csdn.net/qq_20304723/article/details/103474665)|2019.11.24|<font color=#00D700>Easy</font>|D
 284|1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)|[Search Suggestions System](https://blog.csdn.net/qq_20304723/article/details/103464748)|2019.11.24|<font color=#FFD700>Medium</font>|7
 283|1267|[统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)|Count Servers that Communicate|2019.11.24|<font color=#FFD700>Medium</font>|3
 282|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)|Minimum Time Visiting All Points|2019.11.24|<font color=#00D700>Easy</font>|3

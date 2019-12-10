@@ -302,6 +302,10 @@ LeetCode
 305.FindTheSmallestDivisorGivenAThreshold           2019.12.8   java
 306.DepartmentHighestSalary                         2019.12.9   sql
 307.TheDiningPhilosophers                           2019.12.9   JUC
+308.ExchangeSeats                                   2019.12.10  sql
+309.LengthOfLastWord                                2019.12.10  java
+310.RemoveDuplicatesFromSortedList                  2019.12.10  java
+311.ExcelSheetColumnTitle                           2019.12.10  java
 
 */
 

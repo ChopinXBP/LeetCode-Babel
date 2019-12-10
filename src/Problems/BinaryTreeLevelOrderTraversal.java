@@ -1,5 +1,6 @@
 package Problems;
 
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -73,6 +74,32 @@ public class BinaryTreeLevelOrderTraversal {
             rowflag = !rowflag;
             result.add(rownums);
         }
+        return result;
+    }
+
+    //层次遍历：自底向上
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        List<List<Integer>> result = new LinkedList<>();
+        LinkedList<TreeNode> list = new LinkedList<>();
+        if (root != null) {
+            list.add(root);
+        }
+        while (!list.isEmpty()) {
+            int size = list.size();
+            LinkedList<Integer> rownums = new LinkedList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode p = list.pollFirst();
+                rownums.add(p.val);
+                if (p.left != null) {
+                    list.add(p.left);
+                }
+                if (p.right != null) {
+                    list.add(p.right);
+                }
+            }
+            result.add(rownums);
+        }
+        Collections.reverse(result);
         return result;
     }
 
