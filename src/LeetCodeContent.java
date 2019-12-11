@@ -306,6 +306,8 @@ LeetCode
 309.LengthOfLastWord                                2019.12.10  java
 310.RemoveDuplicatesFromSortedList                  2019.12.10  java
 311.ExcelSheetColumnTitle                           2019.12.10  java
+312.DepartmentTopThreeSalaries                      2019.12.11  sql
+313.BinaryTreePaths                                 2019.12.11  java
 
 */
 

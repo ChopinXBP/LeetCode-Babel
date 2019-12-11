@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-119 | 165 | 39 | 323
+120 | 165 | 40 | 325
 </center>
 
 ---
@@ -36,7 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
-329|168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[Excel Sheet Column Title]|2019.12.10|<font color=#00D700>Easy</font>|
+325|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)|Binary Tree Paths|2019.12.11|<font color=#00D700>Easy</font>|3
+324|185|[部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries/)|[Department Top Three Salaries]|2019.12.11|<font color=#D70000>Hard</font>|
+323|168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[Excel Sheet Column Title]|2019.12.10|<font color=#00D700>Easy</font>|
 322|107|[二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|Binary Tree Level Order Traversal II|2019.12.10|<font color=#00D700>Easy</font>|3
 321|82|[删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|Remove Duplicates from Sorted List II|2019.12.10|<font color=#FFD700>Medium</font>|3
 320|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|Remove Duplicates from Sorted List|2019.12.10|<font color=#00D700>Easy</font>|3
@@ -72,7 +74,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 290|695|[岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)|Max Area of Island|2019.11.28|<font color=#FFD700>Medium</font>|3
 289|1114|[按序打印](https://leetcode-cn.com/problems/print-in-order/)|[Print in Order]|2019.11.27|<font color=#00D700>Easy</font>|
 288|197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)|[Rising Temperature]|2019.11.26|<font color=#00D700>Easy</font>|
-287|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[Delete Duplicate Emails]|2019.11.26|<font color=#00D700>Easy</font>|
+287|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[Delete Duplicate Emails](https://blog.csdn.net/qq_20304723/article/details/103491178)|2019.11.26|<font color=#00D700>Easy</font>|D
 286|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)|[Transpose File](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.24|<font color=#FFD700>Medium</font>|S
 285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order](https://blog.csdn.net/qq_20304723/article/details/103474665)|2019.11.24|<font color=#00D700>Easy</font>|D
 284|1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)|[Search Suggestions System](https://blog.csdn.net/qq_20304723/article/details/103464748)|2019.11.24|<font color=#FFD700>Medium</font>|7
