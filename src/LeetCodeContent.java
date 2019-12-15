@@ -308,6 +308,9 @@ LeetCode
 311.ExcelSheetColumnTitle                           2019.12.10  java
 312.DepartmentTopThreeSalaries                      2019.12.11  sql
 313.BinaryTreePaths                                 2019.12.11  java
+314.ConvertBinaryNumberInALinkedListToInteger       2019.12.15  java
+315.SequentialDigits                                2019.12.15  java
+316.MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold 2019.12.15  java
 
 */
 
