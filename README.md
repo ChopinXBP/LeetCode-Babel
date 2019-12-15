@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-120 | 165 | 40 | 325
+121 | 167 | 40 | 328
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+328|1292|[元素和小于等于阈值的正方形的最大边长](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold]|2019.12.15|<font color=#FFD700>Medium</font>|
+327|1291|[顺次数](https://leetcode-cn.com/problems/sequential-digits/)|Sequential Digits|2019.12.15|<font color=#FFD700>Medium</font>|3
+326|1290|[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Convert Binary Number in a Linked List to Integer|2019.12.15|<font color=#00D700>Easy</font>|3
 325|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)|Binary Tree Paths|2019.12.11|<font color=#00D700>Easy</font>|3
 324|185|[部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries/)|[Department Top Three Salaries]|2019.12.11|<font color=#D70000>Hard</font>|
 323|168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[Excel Sheet Column Title]|2019.12.10|<font color=#00D700>Easy</font>|
@@ -73,7 +76,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 291|674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|Longest Continuous Increasing Subsequence|2019.11.28|<font color=#00D700>Easy</font>|3
 290|695|[岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)|Max Area of Island|2019.11.28|<font color=#FFD700>Medium</font>|3
 289|1114|[按序打印](https://leetcode-cn.com/problems/print-in-order/)|[Print in Order]|2019.11.27|<font color=#00D700>Easy</font>|
-288|197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)|[Rising Temperature]|2019.11.26|<font color=#00D700>Easy</font>|
+288|197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)|[Rising Temperature](https://blog.csdn.net/qq_20304723/article/details/103547434)|2019.11.26|<font color=#00D700>Easy</font>|D
 287|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[Delete Duplicate Emails](https://blog.csdn.net/qq_20304723/article/details/103491178)|2019.11.26|<font color=#00D700>Easy</font>|D
 286|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)|[Transpose File](https://blog.csdn.net/qq_20304723/article/details/103258206)|2019.11.24|<font color=#FFD700>Medium</font>|S
 285|183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[Customers Who Never Order](https://blog.csdn.net/qq_20304723/article/details/103474665)|2019.11.24|<font color=#00D700>Easy</font>|D
