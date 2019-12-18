@@ -311,6 +311,9 @@ LeetCode
 314.ConvertBinaryNumberInALinkedListToInteger       2019.12.15  java
 315.SequentialDigits                                2019.12.15  java
 316.MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold 2019.12.15  java
+317.AddDigits                                       2019.12.16  java
+318.TripsAndUsers                                   2019.12.18  sql
+319.UglyNumber                                      2019.12.18  java
 
 */
 
