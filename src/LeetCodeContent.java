@@ -314,6 +314,9 @@ LeetCode
 317.AddDigits                                       2019.12.16  java
 318.TripsAndUsers                                   2019.12.18  sql
 319.UglyNumber                                      2019.12.18  java
+320.HumanTrafficOfStadium                           2019.12.19  sql
+321.WordPattern                                     2019.12.19  java
+322.BullsAndCows                                    2019.12.19  java
 
 */
 

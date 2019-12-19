@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-123 | 167 | 41 | 331
+125 | 167 | 42 | 334
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+334|299|[猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)|Bulls and Cows|2019.12.19|<font color=#00D700>Easy</font>|3
+333|290|[单词规律](https://leetcode-cn.com/problems/word-pattern/)|Word Pattern|2019.12.19|<font color=#00D700>Easy</font>|3
+332|601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium/)|[Human Traffic of Stadium]|2019.12.19|<font color=#D70000>Hard</font>|
 331|263|[丑数](https://leetcode-cn.com/problems/ugly-number/)|[Ugly Number]|2019.12.18|<font color=#00D700>Easy</font>|
 330|262|[行程和用户](https://leetcode-cn.com/problems/trips-and-users/)|[Trips and Users]|2019.12.18|<font color=#D70000>Hard</font>|
 329|258|[各位相加](https://leetcode-cn.com/problems/add-digits/)|[Add Digits]|2019.12.16|<font color=#00D700>Easy</font>|
@@ -72,7 +75,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
 297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary]|2019.11.29|<font color=#00D700>Easy</font>|
 296|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|Not Boring Movies|2019.11.29|<font color=#00D700>Easy</font>|3
-295|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)|[Permutation Sequence]|2019.11.29|<font color=#FFD700>Medium</font>|
+295|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)|[Permutation Sequence](https://blog.csdn.net/qq_20304723/article/details/103609060)|2019.11.29|<font color=#FFD700>Medium</font>|9
 294|1115|[交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)|Print FooBar Alternately|2019.11.28|<font color=#FFD700>Medium</font>|C
 293|596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/)|Classes More Than 5 Students|2019.11.28|<font color=#00D700>Easy</font>|D
 292|595|[大的国家](https://leetcode-cn.com/problems/big-countries/)|Big Countries|2019.11.28|<font color=#00D700>Easy</font>|D
