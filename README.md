@@ -73,7 +73,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 300|1179|[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[Reformat Department Table]|2019.11.30|<font color=#00D700>Easy</font>|
 299|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[Problems.Triangle]|2019.11.30|<font color=#FFD700>Medium</font>|
 298|1116|[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/)|Print Zero Even Odd|2019.11.29|<font color=#FFD700>Medium</font>|C
-297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary]|2019.11.29|<font color=#00D700>Easy</font>|
+297|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[Swap Salary](https://blog.csdn.net/qq_20304723/article/details/103646949)|2019.11.29|<font color=#00D700>Easy</font>|D
 296|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|Not Boring Movies|2019.11.29|<font color=#00D700>Easy</font>|3
 295|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)|[Permutation Sequence](https://blog.csdn.net/qq_20304723/article/details/103609060)|2019.11.29|<font color=#FFD700>Medium</font>|9
 294|1115|[交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)|Print FooBar Alternately|2019.11.28|<font color=#FFD700>Medium</font>|C
