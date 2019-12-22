@@ -317,6 +317,9 @@ LeetCode
 320.HumanTrafficOfStadium                           2019.12.19  sql
 321.WordPattern                                     2019.12.19  java
 322.BullsAndCows                                    2019.12.19  java
+323.FindNumbersWithEvenNumberOfDigits               2019.12.22  java
+324.DivideArrayInSetsOfKConsecutiveNumbers          2019.12.22  java
+325.MaximumNumberOfOccurrencesOfASubstring          2019.12.22  java
 
 */
 
