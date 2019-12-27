@@ -320,6 +320,8 @@ LeetCode
 323.FindNumbersWithEvenNumberOfDigits               2019.12.22  java
 324.DivideArrayInSetsOfKConsecutiveNumbers          2019.12.22  java
 325.MaximumNumberOfOccurrencesOfASubstring          2019.12.22  java
+326.RangeSumQuery                                   2019.12.27  java
+327.PowerOfFour                                     2019.12.27  java
 
 */
 
