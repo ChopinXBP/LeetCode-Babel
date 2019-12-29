@@ -322,6 +322,9 @@ LeetCode
 325.MaximumNumberOfOccurrencesOfASubstring          2019.12.22  java
 326.RangeSumQuery                                   2019.12.27  java
 327.PowerOfFour                                     2019.12.27  java
+328.FindNUniqueIntegersSumUpToZero                  2019.12.29  java
+329.AllElementsInTwoBinarySearchTrees               2019.12.29  java
+330.JumpGameIII                                     2019.12.29  java
 
 */
 

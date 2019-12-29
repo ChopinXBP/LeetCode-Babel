@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-126 | 169 | 42 | 337
+129 | 171 | 42 | 342
 </center>
 
 ---
@@ -36,6 +36,11 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+342|1306|[跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)|Jump Game III|2019.12.29|<font color=#FFD700>Medium</font>|3
+341|1305|[两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|All Elements in Two Binary Search Trees|2019.12.29|<font color=#FFD700>Medium</font>|3
+340|1304|[和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/)|Find N Unique Integers Sum up to Zero|2019.12.29|<font color=#00D700>Easy</font>|3
+339|342|[4的幂](https://leetcode-cn.com/problems/power-of-four/)|[Power of Four]|2019.12.27|<font color=#00D700>Easy</font>|
+338|303|[区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|Range Sum Query-Immutable|2019.12.27|<font color=#00D700>Easy</font>|
 337|1296|[子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)|[Maximum Number of Occurrences of a Substring]|2019.12.22|<font color=#FFD700>Medium</font>|
 336|1295|[划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Divide Array in Sets of K Consecutive Numbers]|2019.12.22|<font color=#FFD700>Medium</font>|
 335|1294|[统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)|Find Numbers with Even Number of Digits|2019.12.22|<font color=#00D700>Easy</font>|2
@@ -70,7 +75,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 306|1117|[H2O 生成](https://leetcode-cn.com/problems/building-h2o/)|[Building H2O]|2019.12.2|<font color=#FFD700>Medium</font>|
 305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary]|2019.12.2|<font color=#FFD700>Medium</font>|
 304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes]|2019.12.2|<font color=#D70000>Hard</font>|
-303|1277|[统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones]|2019.12.1|<font color=#FFD700>Medium</font>|
+303|1277|[统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones](https://blog.csdn.net/qq_20304723/article/details/103752549)|2019.12.1|<font color=#FFD700>Medium</font>|7
 302|1276|[不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|Number of Burgers with No Waste of Ingredients|2019.12.1|<font color=#FFD700>Medium</font>|3
 301|1275|[找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/)|Find Winner on a Tic Tac Toe Game|2019.12.1|<font color=#00D700>Easy</font>|3
 300|1179|[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[Reformat Department Table](https://blog.csdn.net/qq_20304723/article/details/103738857)|2019.11.30|<font color=#00D700>Easy</font>|D
