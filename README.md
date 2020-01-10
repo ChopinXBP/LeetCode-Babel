@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-129 | 171 | 42 | 342
+132 | 171 | 42 | 345
 </center>
 
 ---
@@ -36,6 +36,9 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+345|392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|Is Subsequence|2020.1.10|<font color=#00D700>Easy</font>|3
+344|389|[找不同](https://leetcode-cn.com/problems/find-the-difference/)|Find the Difference|2020.1.10|<font color=#00D700>Easy</font>|3
+343|383|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|Ransom Note|2020.1.10|<font color=#00D700>Easy</font>|3
 342|1306|[跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)|Jump Game III|2019.12.29|<font color=#FFD700>Medium</font>|3
 341|1305|[两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|All Elements in Two Binary Search Trees|2019.12.29|<font color=#FFD700>Medium</font>|3
 340|1304|[和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/)|Find N Unique Integers Sum up to Zero|2019.12.29|<font color=#00D700>Easy</font>|3

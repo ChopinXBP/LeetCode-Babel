@@ -325,6 +325,9 @@ LeetCode
 328.FindNUniqueIntegersSumUpToZero                  2019.12.29  java
 329.AllElementsInTwoBinarySearchTrees               2019.12.29  java
 330.JumpGameIII                                     2019.12.29  java
+331.RansomNote                                      2020.1.10   java
+332.FindTheDifference                               2020.1.10   java
+333.IsSubsequence                                   2020.1.10   java
 
 */
 
