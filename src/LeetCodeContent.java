@@ -328,6 +328,9 @@ LeetCode
 331.RansomNote                                      2020.1.10   java
 332.FindTheDifference                               2020.1.10   java
 333.IsSubsequence                                   2020.1.10   java
+334.ConvertIntegerToTheSumOfTwoNoZeroIntegers       2020.1.12   java
+335.MinimumFlipsToMakeAORBEqualToC                  2020.1.12   java
+336.NumberOfOperationsToMakeNetworkConnected        2020.1.12   java
 
 */
 

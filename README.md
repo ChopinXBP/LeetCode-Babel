@@ -22,20 +22,24 @@
 
 ---
 
-<center>
+<div style="text-align: center;">
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-132 | 171 | 42 | 345
-</center>
+133 | 173 | 42 | 348
+
+</div>
 
 ---
 
-<center>
+<div style="text-align: center;">
 
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+348|1319|[连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)|[Number of Operations to Make Network Connected]|2020.1.12|<font color=#FFD700>Medium</font>|
+347|1318|[或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|Minimum Flips to Make a OR b Equal to c|2020.1.12|<font color=#FFD700>Medium</font>|3
+346|1317|[将整数转换为两个无零整数的和](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|Convert Integer to the Sum of Two No-Zero Integers|2020.1.12|<font color=#00D700>Easy</font>|3
 345|392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|Is Subsequence|2020.1.10|<font color=#00D700>Easy</font>|3
 344|389|[找不同](https://leetcode-cn.com/problems/find-the-difference/)|Find the Difference|2020.1.10|<font color=#00D700>Easy</font>|3
 343|383|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|Ransom Note|2020.1.10|<font color=#00D700>Easy</font>|3
@@ -76,8 +80,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores]|2019.12.3|<font color=#FFD700>Medium</font>|
 307|432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)|[All O`one Data Structure]|2019.12.3|<font color=#D70000>Hard</font>|
 306|1117|[H2O 生成](https://leetcode-cn.com/problems/building-h2o/)|[Building H2O]|2019.12.2|<font color=#FFD700>Medium</font>|
-305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary]|2019.12.2|<font color=#FFD700>Medium</font>|
-304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes]|2019.12.2|<font color=#D70000>Hard</font>|
+305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary](https://blog.csdn.net/qq_20304723/article/details/103945080)|2019.12.2|<font color=#FFD700>Medium</font>|D
+304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes](https://blog.csdn.net/qq_20304723/article/details/103931396)|2019.12.2|<font color=#D70000>Hard</font>|10
 303|1277|[统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones](https://blog.csdn.net/qq_20304723/article/details/103752549)|2019.12.1|<font color=#FFD700>Medium</font>|7
 302|1276|[不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|Number of Burgers with No Waste of Ingredients|2019.12.1|<font color=#FFD700>Medium</font>|3
 301|1275|[找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/)|Find Winner on a Tic Tac Toe Game|2019.12.1|<font color=#00D700>Easy</font>|3
@@ -382,5 +386,5 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 2|104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree](https://blog.csdn.net/qq_20304723/article/details/88990988)|2018.8.13|<font color=#00D700>Easy</font>|5
 1|111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[Minimum Depth of Binary Tree](https://blog.csdn.net/qq_20304723/article/details/88990988)|2018.8.13|<font color=#00D700>Easy</font>|5
 
-</center>
+</div>
 
