@@ -331,6 +331,7 @@ LeetCode
 334.ConvertIntegerToTheSumOfTwoNoZeroIntegers       2020.1.12   java
 335.MinimumFlipsToMakeAORBEqualToC                  2020.1.12   java
 336.NumberOfOperationsToMakeNetworkConnected        2020.1.12   java
+337.BinaryWatch                                     2020.1.30   java
 
 */
 
