@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-134 | 173 | 42 | 349
+137 | 177 | 42 | 356
 
 </div>
 
@@ -37,6 +37,13 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+356|1362|[最接近的因数](https://leetcode-cn.com/problems/closest-divisors/)|Closest Divisors|2020.2.23|<font color=#FFD700>Medium</font>|5
+355|1361|[验证二叉树](https://leetcode-cn.com/problems/validate-binary-tree-nodes/)|[Validate Binary Tree Nodes]|2020.2.23|<font color=#FFD700>Medium</font>|
+354|1360|[日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/)|[Number of Days Between Two Dates]|2020.2.23|<font color=#00D700>Easy</font>|
+353|1358|[包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/)|Number of Substrings Containing All Three Characters|2020.2.22|<font color=#FFD700>Medium</font>|5
+352|1357|[每隔n个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/)|Apply Discount Every n Orders|2020.2.22|<font color=#FFD700>Medium</font>|3
+351|1356|[根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|Sort Integers by The Number of 1 Bits|2020.2.22|<font color=#00D700>Easy</font>|4
+350|404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|Sum of Left Leaves|2020.2.22|<font color=#00D700>Easy</font>|4
 349|401|[二进制手表](https://leetcode-cn.com/problems/binary-watch/)|[Binary Watch]|2020.1.30|<font color=#00D700>Easy</font>|
 348|1319|[连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)|[Number of Operations to Make Network Connected]|2020.1.12|<font color=#FFD700>Medium</font>|
 347|1318|[或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|Minimum Flips to Make a OR b Equal to c|2020.1.12|<font color=#FFD700>Medium</font>|3
@@ -78,8 +85,8 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers]|2019.12.4|<font color=#FFD700>Medium</font>|
 310|393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)|UTF-8 Validation|2019.12.4|<font color=#FFD700>Medium</font>|4
 309|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Search Insert Position|2019.12.3|<font color=#00D700>Easy</font>|4
-308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores]|2019.12.3|<font color=#FFD700>Medium</font>|
-307|432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)|[All O`one Data Structure]|2019.12.3|<font color=#D70000>Hard</font>|
+308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores](https://blog.csdn.net/qq_20304723/article/details/104460816)|2019.12.3|<font color=#FFD700>Medium</font>|D
+307|432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)|[All O`one Data Structure](https://blog.csdn.net/qq_20304723/article/details/104444760)|2019.12.3|<font color=#D70000>Hard</font>|8
 306|1117|[H2O 生成](https://leetcode-cn.com/problems/building-h2o/)|[Building H2O](https://blog.csdn.net/qq_20304723/article/details/104117047)|2019.12.2|<font color=#FFD700>Medium</font>|C
 305|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|[Nth Highest Salary](https://blog.csdn.net/qq_20304723/article/details/103945080)|2019.12.2|<font color=#FFD700>Medium</font>|D
 304|354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[Russian Doll Envelopes](https://blog.csdn.net/qq_20304723/article/details/103931396)|2019.12.2|<font color=#D70000>Hard</font>|10

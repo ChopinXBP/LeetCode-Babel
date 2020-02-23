@@ -332,6 +332,13 @@ LeetCode
 335.MinimumFlipsToMakeAORBEqualToC                  2020.1.12   java
 336.NumberOfOperationsToMakeNetworkConnected        2020.1.12   java
 337.BinaryWatch                                     2020.1.30   java
+338.SumOfLeftLeaves                                 2020.2.22   java
+339.SortIntegersByTheNumberOf1Bits                  2020.2.22   java
+340.ApplyDiscountEveryNOrders                       2020.2.22   java
+341.NumberOfSubstringsContainingAllThreeCharacters  2020.2.22   java
+342.NumberOfDaysBetweenTwoDates                     2020.2.23   java
+343.ValidateBinaryTreeNodes                         2020.2.23   java
+344.ClosestDivisors                                 2020.2.23   java
 
 */
 
