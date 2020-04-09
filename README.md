@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-137 | 177 | 42 | 356
+146 | 184 | 42 | 372
 
 </div>
 
@@ -37,6 +37,22 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+372|501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)|Find Mode in Binary Search Tree|2020.4.6|<font color=#00D700>Easy</font>|
+371|264|[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)|[Ugly Number II]|2020.4.6|<font color=#FFD700>Medium</font>|
+370|213|[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)|[House Robber II]|2020.4.6|<font color=#FFD700>Medium</font>|
+369|402|[移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)|[Remove K Digits]|2020.4.6|<font color=#FFD700>Medium</font>|
+368|692|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|Top K Frequent Words|2020.4.6|<font color=#FFD700>Medium</font>|5
+367|113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|Path Sum II|2020.4.6|<font color=#FFD700>Medium</font>|3
+366|63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Unique Paths II|2020.4.6|<font color=#FFD700>Medium</font>|6
+365|6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|ZigZag Conversion|2020.4.6|<font color=#FFD700>Medium</font>|5
+364|453|[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Minimum Moves to Equal Array Elements]|2020.4.6|<font color=#00D700>Easy</font>|
+363|443|[压缩字符串](https://leetcode-cn.com/problems/string-compression/)|String Compression|2020.4.6|<font color=#00D700>Easy</font>|3
+362|441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/)|Arranging Coins|2020.4.6|<font color=#00D700>Easy</font>|3
+361|434|[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)|Number of Segments in a String|2020.4.6|<font color=#00D700>Easy</font>|3
+360|415|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|Add Strings|2020.4.6|<font color=#00D700>Easy</font>|3
+359|414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number/)|Third Maximum Number|2020.4.6|<font color=#00D700>Easy</font>|3
+358|409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|Longest Palindrome|2020.4.6|<font color=#00D700>Easy</font>|3
+357|405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)|Convert a Number to Hexadecimal|2020.4.5|<font color=#00D700>Easy</font>|3
 356|1362|[最接近的因数](https://leetcode-cn.com/problems/closest-divisors/)|Closest Divisors|2020.2.23|<font color=#FFD700>Medium</font>|5
 355|1361|[验证二叉树](https://leetcode-cn.com/problems/validate-binary-tree-nodes/)|[Validate Binary Tree Nodes]|2020.2.23|<font color=#FFD700>Medium</font>|
 354|1360|[日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/)|[Number of Days Between Two Dates]|2020.2.23|<font color=#00D700>Easy</font>|
@@ -82,7 +98,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 314|1282|[用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Group the People Given the Group Size They Belong To|2019.12.8|<font color=#FFD700>Medium</font>|3
 313|1281|[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Subtract the Product and Sum of Digits of an Integer|2019.12.8|<font color=#00D700>Easy</font>|3
 312|1195|[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)|[Fizz Buzz Multithreaded]|2019.12.4|<font color=#FFD700>Medium</font>|
-311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers]|2019.12.4|<font color=#FFD700>Medium</font>|
+311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers](https://blog.csdn.net/qq_20304723/article/details/105413177)|2019.12.4|<font color=#FFD700>Medium</font>|D
 310|393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)|UTF-8 Validation|2019.12.4|<font color=#FFD700>Medium</font>|4
 309|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Search Insert Position|2019.12.3|<font color=#00D700>Easy</font>|4
 308|178|[分数排名](https://leetcode-cn.com/problems/rank-scores/)|[Rank Scores](https://blog.csdn.net/qq_20304723/article/details/104460816)|2019.12.3|<font color=#FFD700>Medium</font>|D

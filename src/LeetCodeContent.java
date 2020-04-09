@@ -339,6 +339,23 @@ LeetCode
 342.NumberOfDaysBetweenTwoDates                     2020.2.23   java
 343.ValidateBinaryTreeNodes                         2020.2.23   java
 344.ClosestDivisors                                 2020.2.23   java
+345.ConvertANumberToHexadecimal                     2020.4.5    java
+346.LongestPalindrome                               2020.4.6    java
+347.ThirdMaximumNumber                              2020.4.6    java
+348.AddStrings                                      2020.4.6    java
+349.NumberOfSegmentsInAString                       2020.4.6    java
+350.ArrangingCoins                                  2020.4.6    java
+351.StringCompression                               2020.4.6    java
+352.MinimumMovesToEqualArrayElements                2020.4.6    java
+353.ZigZagConversion                                2020.4.6    java
+354.UniquePathsII                                   2020.4.6    java
+355.PathSumII                                       2020.4.6    java
+356.TopKFrequentWords                               2020.4.6    java
+357.RemoveKDigits                                   2020.4.6    java
+358.HouseRobberII                                   2020.4.6    java
+359.UglyNumberII                                    2020.4.6    javaA
+360.FindModeInBinarySearchTree                      2020.4.6    javaA
+
 
 */
 
@@ -374,6 +391,4 @@ public class LeetCodeContent {
         }
     }
 
-    double a = 'a';
-    char b = 1;
 }
