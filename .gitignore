@@ -1,3 +1,4 @@
 out/
 .idea/
-LeetCode.iml
+*.iml
+production/
