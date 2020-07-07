@@ -26,7 +26,7 @@
 
 <font color=#00D700>Easy</font> | <font color=#FFD700>Medium</font> | <font color=#D70000>Hard</font> | Total
 :---:|:---:|:---:|:---:
-146 | 184 | 42 | 372
+147 | 184 | 42 | 373
 
 </div>
 
@@ -37,6 +37,7 @@
 Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 序号|题号|原题|笔记|完成时间|难度|自评(10)
+373|455|[分发饼干](https://leetcode-cn.com/problems/assign-cookies/)|Assign Cookies|2020.7.7|<font color=#00D700>Easy</font>|3
 372|501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)|Find Mode in Binary Search Tree|2020.4.6|<font color=#00D700>Easy</font>|
 371|264|[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)|[Ugly Number II]|2020.4.6|<font color=#FFD700>Medium</font>|
 370|213|[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)|[House Robber II]|2020.4.6|<font color=#FFD700>Medium</font>|
@@ -97,7 +98,7 @@ Idx | ID | Problem | Note | Date | Difficulty | Score(10)
 315|1283|[使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)|Find the Smallest Divisor Given a Threshold|2019.12.8|<font color=#FFD700>Medium</font>|5
 314|1282|[用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Group the People Given the Group Size They Belong To|2019.12.8|<font color=#FFD700>Medium</font>|3
 313|1281|[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Subtract the Product and Sum of Digits of an Integer|2019.12.8|<font color=#00D700>Easy</font>|3
-312|1195|[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)|[Fizz Buzz Multithreaded]|2019.12.4|<font color=#FFD700>Medium</font>|
+312|1195|[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)|[Fizz Buzz Multithreaded](https://blog.csdn.net/qq_20304723/article/details/107180288)|2019.12.4|<font color=#FFD700>Medium</font>|C
 311|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)|[Consecutive Numbers](https://blog.csdn.net/qq_20304723/article/details/105413177)|2019.12.4|<font color=#FFD700>Medium</font>|D
 310|393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)|UTF-8 Validation|2019.12.4|<font color=#FFD700>Medium</font>|4
 309|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Search Insert Position|2019.12.3|<font color=#00D700>Easy</font>|4
