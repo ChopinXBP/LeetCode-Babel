@@ -355,7 +355,9 @@ LeetCode
 358.HouseRobberII                                   2020.4.6    java
 359.UglyNumberII                                    2020.4.6    javaA
 360.FindModeInBinarySearchTree                      2020.4.6    javaA
-
+361.MinimumAbsoluteDifferenceInBST                  2020.9.3    java
+362.BinaryTreeTilt                                  2020.9.3    java
+363.ImplementRand10UsingRand7                       2020.9.3    java
 
 */
 
